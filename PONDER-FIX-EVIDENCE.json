@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "client_loader_templates": 187,
+  "empty_templates": 0,
+  "restored_non_air": 11635,
+  "before_non_air": 0,
+  "generated_jar_entries_verified": 16615,
+  "jar_delta": [
+    "fabric.mod.json",
+    "com/zurrtum/create/client/ponder/foundation/registration/PonderSceneRegistry.class"
+  ],
+  "gui_or_game_started": false,
+  "actual_gameplay_verified": false,
+  "server_modified": false,
+  "candidate_sha256": "2d68d2ab3deebe930f52218ec30e3a7906fa2927f49d30dab5e8541d68349462",
+  "overlay_sha256": "e0bf8ae475eb9e353324662667c67725da9a018fd3acf91d24dc0867d3a093e3",
+  "source_sha256": "4948510adea47e01472c55bc2bcf55a17cad619a3d9257fbb3caeb31f1bfa091"
+}

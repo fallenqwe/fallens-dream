@@ -1,0 +1,8 @@
+name = "collective-26.3.0-8.57.jar"
+filename = "collective-26.3.0-8.57.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/YvB9RrYH/collective-26.3.0-8.57.jar"
+hash-format = "sha512"
+hash = "0788233cd55d81291416008a823f12a9f2dd7f4dccadcd3023d62f0bb7734e1c7acdd207a1b94099bf0b208020985bff68eb52214b0f1b3bf1fff3c42f678f41"

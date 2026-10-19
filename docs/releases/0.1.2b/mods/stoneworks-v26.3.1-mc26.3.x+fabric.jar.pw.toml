@@ -1,0 +1,8 @@
+name = "stoneworks-v26.3.1-mc26.3.x+fabric.jar"
+filename = "stoneworks-v26.3.1-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/blHWPVsk/stoneworks-v26.3.1-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "0de8e14ec50aa349172442097648b032262ca51282246c5650fe047cfd1d7fe2c7415a84fb2575ed813c158f2aba17ccd0838eb5ff1efd68e7f85ded60f2aa41"

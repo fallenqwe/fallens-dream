@@ -1,0 +1,8 @@
+name = "mcw-doors-1.1.5-mc26.3fabric.jar"
+filename = "mcw-doors-1.1.5-mc26.3fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/xfU8SZ7D/mcw-doors-1.1.5-mc26.3fabric.jar"
+hash-format = "sha512"
+hash = "fec014859a250042914190053b29b0c8c6eae86187dd90160ffb2a036898720de2500c424178972fccc7c62edeca838805feb836d18d6c0ef34c7c6b1b329d53"

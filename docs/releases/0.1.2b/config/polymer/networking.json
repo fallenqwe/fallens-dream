@@ -1,0 +1,4 @@
+{
+  "_c2": "Forcefully disables networking between server and client. I suggest not disabling it for better mod compatibility and client extras.",
+  "disable_player_networking": false
+}

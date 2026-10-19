@@ -1,0 +1,8 @@
+name = "GlitchCore-fabric-26.3-26.3.0.0.5.jar"
+filename = "GlitchCore-fabric-26.3-26.3.0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/kfFeDnrp/GlitchCore-fabric-26.3-26.3.0.0.5.jar"
+hash-format = "sha512"
+hash = "f975535e561285898163e7512008fe61ffaac66b6fc60a4e4763d0f2279617f75900d7a2ab2708d8dc348337119df61d2783aa101a9f1a24020f99888aa0d457"

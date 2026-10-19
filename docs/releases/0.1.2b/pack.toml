@@ -1,0 +1,13 @@
+name = "Fallen's Dream"
+author = "Fallen"
+version = "0.1.2b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40c51439687a09982bdbfa1d5deed0918bc1128c427977d801e7fac017a4fb66"
+
+[versions]
+minecraft = "26.3"
+fabric = "0.19.5"

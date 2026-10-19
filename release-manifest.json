@@ -1,6 +1,6 @@
 {
   "name": "Fallen's Dream",
-  "version": "0.1.1b",
+  "version": "0.1.2b",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "java": 25,
@@ -841,9 +841,9 @@
     },
     {
       "path": ".fallens/create/overlay.zip",
-      "sha512": "c233d42b1049a53741bc2011c8c1011547f99fd18d4dc5657aee5f41c94ab0ad7dd5843c98777061e4de04db0febb7ef98735dd04f0eb0d593e7ce7b38ee05e4",
+      "sha512": "7e51897d6a6fae31d0cf21441a5b0787c62a283d40d5194ee964125413c56033a188566e168f391caf43ca44974d049fe8bf9fb817cd14e805dbafd7b381622c",
       "preserve": false,
-      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/create-26.3-port.3-overlay.zip"
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.2b/create-26.3-port.4-overlay.zip"
     },
     {
       "path": "options.txt",
@@ -866,11 +866,11 @@
   ],
   "create": {
     "delivery": "official upstream + local overlay",
-    "version": "6.0.9-cozy26.3-port.3",
+    "version": "6.0.9-cozy26.3-port.4",
     "overlay": {
-      "copy": 7692,
+      "copy": 7691,
       "normalize_newlines": 6326,
-      "full": 2595,
+      "full": 2596,
       "delta": [
         {
           "entry": "assets/create/shaders/core/glowing_shader.fsh",

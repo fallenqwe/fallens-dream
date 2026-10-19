@@ -1,0 +1,8 @@
+lang:ru_ru
+enableVsync:true
+maxFps:60
+fullscreen:false
+renderDistance:10
+simulationDistance:6
+resourcePacks:["cozy_catalog:readable_russian","file/Cozy-Mipmap-Fix-1.0.0.zip"]
+incompatibleResourcePacks:[]

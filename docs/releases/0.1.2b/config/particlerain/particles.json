@@ -1,0 +1,29 @@
+{
+  "rain": {
+    "weather": "ONLY_DURING_NORMAL_WEATHER"
+  },
+  "fog": {
+    "enabled": false
+  },
+  "vertical_fog": {
+    "enabled": false
+  },
+  "fog_after_rain": {
+    "density": 0.05
+  },
+  "vertical_fog_after_rain": {
+    "enabled": false
+  },
+  "dust": {
+    "density": 0.35
+  },
+  "skittering_dust": {
+    "density": 0.08
+  },
+  "dust_haze": {
+    "enabled": false
+  },
+  "shrub": {
+    "enabled": false
+  }
+}
