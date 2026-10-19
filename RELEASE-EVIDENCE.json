@@ -1,0 +1,31 @@
+{
+  "release": "0.1b",
+  "minecraft_client_started_for_distribution_tests": false,
+  "full_pack_integration_assertions": 169,
+  "full_pack_scenarios": 5,
+  "targeted_updater_assertions": 51,
+  "additional_real_packwiz_checks": 12,
+  "create_reconstructed_payload_entries": 16615,
+  "top_level_mods": 60,
+  "updater_source_sha256": "0a217f980df75c3f1d9042fec7a6ce99279cf32106c552a166e3ff693d4afaae",
+  "executed_updater_jar_sha256": "853ae8fd7033415f23aa678f5463d562b6d849d5e7b76f46179f8f637f9da06b",
+  "coverage": [
+    "fresh install",
+    "every pinned file hash",
+    "Create and Catalog entry payload equality",
+    "same-version launch",
+    "missing managed mod repair",
+    "rename upgrade",
+    "personal settings preservation",
+    "corrupt download automatic rollback",
+    "interrupted update file preservation",
+    "stock installer false-success guard",
+    "world and server sentinels preserved"
+  ],
+  "not_covered": [
+    "Prism GUI import and command execution",
+    "Minecraft GUI/render/FPS",
+    "long-term stability",
+    "other operating systems"
+  ]
+}

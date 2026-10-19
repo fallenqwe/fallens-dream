@@ -1,0 +1,8 @@
+name = "upstream.jar"
+filename = "upstream.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/FV8OvjTb/create-fly-26.2-6.0.9-2.jar"
+hash-format = "sha512"
+hash = "e8f177ee096ca3436c196ad12cd6660e91419d61043f72ad3194ed3ac25c3e289fc67e2a12cdfbbaeeb1a1e50e161c0152570c4495a1a26bbeece4e86d128f0c"

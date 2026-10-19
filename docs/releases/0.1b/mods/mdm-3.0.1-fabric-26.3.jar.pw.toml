@@ -1,0 +1,8 @@
+name = "mdm-3.0.1-fabric-26.3.jar"
+filename = "mdm-3.0.1-fabric-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/EHzmpLkh/mdm-3.0.1-fabric-26.3.jar"
+hash-format = "sha512"
+hash = "41b80ad876eebf4138c41308bc78171b009925cebc72c03dcc7869a883fdd12edf68eca61dfd6232fde17e722641bed2576f795ddd301455b76c9df5995f2131"

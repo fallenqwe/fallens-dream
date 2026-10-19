@@ -1,0 +1,8 @@
+name = "cookingforblockheads-fabric-26.3-26.3.0.2.jar"
+filename = "cookingforblockheads-fabric-26.3-26.3.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/3vl3upGM/cookingforblockheads-fabric-26.3-26.3.0.2.jar"
+hash-format = "sha512"
+hash = "427935a13093a05e25bf1d2ff16ebd26cc4ce1a7e89b35420951bf6bf36c81f1ab9fbbf3ca899bd02f66ebbbb01a56d41d29b83cfc9c1dddeef968c6ca935289"

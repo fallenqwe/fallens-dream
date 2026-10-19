@@ -1,0 +1,891 @@
+{
+  "name": "Fallen's Dream",
+  "version": "0.1b",
+  "minecraft": "26.3",
+  "fabric": "0.19.5",
+  "java": 25,
+  "files": [
+    {
+      "path": "mods/architectury-fabric-22.0.5.jar",
+      "sha512": "14c61af2088b80b465f06edd3b3005038fa5be1c95a2161ce712c8da408a358038b7cd7ae4acf3198f6d47c693e4fdf65d646dac7e124f7cdd7f32bbc0dcd0ce",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1pMaB6So/architectury-fabric-22.0.5.jar"
+    },
+    {
+      "path": "mods/cloth-config-fabric-26.3.159.jar",
+      "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "sha512": "45304b1d7862afdb2177b7e6226fc9c6737911d17a4ad46cc9c519ca4deb935f05072cd337cd8b19a15bb8062b57b54eceec7bdee4cd572d94858e2946d37d85",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip"
+    },
+    {
+      "path": "mods/continuity-3.0.1+26.3.jar",
+      "sha512": "1ec1e3b2f73c26b19445d664822a8936e9076f4d8855a2ed5fac19786daa8da42da8fdc9526c4a53c227a82819a87ad8e73d5b4fc003f6519c50454c33014f04",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/1IjD5062/versions/Jt2sCWTQ/continuity-3.0.1%2B26.3.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.163.0+26.3.jar",
+      "sha512": "44fd8de10fa71ea39cf984d44d2ec4c8e9314f8af88ad95788d9a09ac7b02b5c2f796ae88f40e314bd27df677e66fed59d1a1b6784350b0cc1fd62efac9e08a3",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bq3SsNGk/fabric-api-0.163.0%2B26.3.jar"
+    },
+    {
+      "path": "mods/ferritecore-9.0.0-fabric.jar",
+      "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+    },
+    {
+      "path": "mods/globalpacks-fabric-26.3-26.3.1.jar",
+      "sha512": "3e7a1dff89f6e3e53d78c4caf55f7597bf691c89a24f66e9c4ae267e6b29bb5001fdbe6776672613a4c87354b23dc79a23850d2115f26b4cabfcfcd33f859585",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/NRLPy2mk/versions/YlmosWaf/globalpacks-fabric-26.3-26.3.1.jar"
+    },
+    {
+      "path": "mods/iris-fabric-1.11.7+mc26.3.jar",
+      "sha512": "d8d3312f77fc52a48e4a6cd836fda33669bdebcb4de0b8c0d30adc808b287330a533e0baef355cc1ce6336a26851d9775369a802a4666b7b7a6266af20088f42",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar"
+    },
+    {
+      "path": "mods/lithium-fabric-0.26.2+mc26.3.jar",
+      "sha512": "4d7fee66132eedc71feab9390b92c95d7058edbdad0fecfac1d836a2950b97a7ca463afbede61c7ef361ce65e1f927ab9e89dde5bf2e0e0ce486afb5c5dbee40",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc26.3fabric.jar",
+      "sha512": "fec014859a250042914190053b29b0c8c6eae86187dd90160ffb2a036898720de2500c424178972fccc7c62edeca838805feb836d18d6c0ef34c7c6b1b329d53",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/kNxa8z3e/versions/xfU8SZ7D/mcw-doors-1.1.5-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/mcw-fences-1.2.1-mc26.3fabric.jar",
+      "sha512": "d2ec720b0976004876c77a20b86d509f3391dcfb0db5827d021fefd693da9f2cf34f0ec58c5e3b08e2bd46cd274743b45951b321f9860c93a6fbf700f17ee61d",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/GmwLse2I/versions/IYu8DBo9/mcw-fences-1.2.1-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.2-mc26.3fabric.jar",
+      "sha512": "90030a9f642c254ea954588b66c78ae4c65246a8c14148b23cde144d031d24dff09f4e14271ca9de78af9210165536d51b306144f442d75c2efa27517a083e0e",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/dtWC90iB/versions/8Z6HSCVW/mcw-furniture-3.4.2-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc26.3fabric.jar",
+      "sha512": "ca8d0cc9841d5071abec7286e590aaad8af9326378702a3f44dfab27f15148509f3d7c8544a610085fc4e5f3ad8f3dcf3d8a9524751589503d8cec271598c8a4",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/w4an97C2/versions/LolTDv3X/mcw-lights-1.1.5-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.3-mc26.3fabric.jar",
+      "sha512": "016ccba9220017b6051d6b203892adba717c9cf62ea5bb0bb201f6e3fa499036edd022701b1e5636fb96edf66bf27e6951dc9697b086833f9906c2b4078d4a82",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/B8jaH3P1/versions/yNXIY14C/mcw-roofs-2.3.3-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/mcw-windows-2.4.2-mc26.3fabric.jar",
+      "sha512": "ef0c41a83cb57bc3b4cc04147f64a4b0e9646d409bfd8094be770dbe4b57571f37b00450835d4f8dfdcfca976be0ffdc0ccd66e4a7d6d9e87a6d31656fcc90f7",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/C7I0BCni/versions/GIK1xDxr/mcw-windows-2.4.2-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/modmenu-21.0.0.jar",
+      "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar"
+    },
+    {
+      "path": "mods/placeholder-api-3.2.0+26.3.jar",
+      "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-26.3.824.jar",
+      "sha512": "7724d8e8dc50248641686c878b6b60736572c49e0cd8c71640c1c57fe85aed9941cad8ff7806b923903253da3540ff3df9bf619d701f50b904990fa7cdd59ee9",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/nfn13YXA/versions/rKsAE6bX/RoughlyEnoughItems-26.3.824.jar"
+    },
+    {
+      "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+      "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar"
+    },
+    {
+      "path": "mods/graves-3.13.0+26.3.jar",
+      "sha512": "0a1e8bf88d66f0ba5cfdf3d7544b73d373f283c0b75ddb627fb8841825e58af7925f6eb3e8aa437f3739771396e4b32207192500062761bcdac7efcc3ff5cc03",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/yn9u3ypm/versions/r9hY06vQ/graves-3.13.0%2B26.3.jar"
+    },
+    {
+      "path": "mods/polymer-bundled-0.18.4+26.3.jar",
+      "sha512": "9620ef10509978f5076ca414ae69f615a6e09a53389f920155eae6aae631032bef975a89ae99509949473a82c6909e441b0a93c144629bf8a3d585b848998378",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/xGdtZczs/versions/G0fTdl8M/polymer-bundled-0.18.4%2B26.3.jar"
+    },
+    {
+      "path": "mods/xaerominimap-fabric-26.3-26.6.0.jar",
+      "sha512": "c704ed5154e66e891517b9b6778b3227a276823844ec70b348a32dc91d38e3500a6e74d8c69d7f9c68e3137b49511258b0b7d5e0b503391dd959f31e8c4e5112",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/1bokaNcj/versions/B2aG1aya/xaerominimap-fabric-26.3-26.6.0.jar"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-26.3-1.47.0.jar",
+      "sha512": "e80c6bd6729c059c3e433e7e77714ed4c7f20e1a487f7449cf47282e9816b51523efe39183090b76a56834ffc67090317e70324730f311ba2e71fa24eec539c6",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/NcUtCpym/versions/nz9xjzWi/xaeroworldmap-fabric-26.3-1.47.0.jar"
+    },
+    {
+      "path": "mods/chopt-1.0.10+mc26.3.jar",
+      "sha512": "d5d3c1050d50a5ecb69c6ec2cbff1496b07cab2f4199c66105d3b50a95460c0dd168c40f6e42b2e959235bc5841f3d9b59bf8ba385d08d63539b0cfdf4a7957e",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/omDn2JEQ/versions/EefpN74x/chopt-1.0.10%2Bmc26.3.jar"
+    },
+    {
+      "path": "mods/FarmersDelight-26.3-3.6.28+refabricated.jar",
+      "sha512": "337ee6b7ef6eb4bc7304531b77d91c942ba758adf47ae1feab5f68b46947821c932c4f9be662d18a218a9d6d4a8c41e31cb239d089dac094101b7ef674703f62",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/7vxePowz/versions/Zdr0cHIz/FarmersDelight-26.3-3.6.28%2Brefabricated.jar"
+    },
+    {
+      "path": "mods/visualworkbench-v26.3.0-mc26.3.x+fabric.jar",
+      "sha512": "52006eaa57053a2f6cba75a0032a81d179f1a47cc4982e391ea5a380179b9b7aaf349afcd5ac3344dcd05e1b0e224f91cf6b1a1135698a7685f1321470966ad0",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/kfqD1JRw/versions/rcsB2H1O/visualworkbench-v26.3.0-mc26.3.x%2Bfabric.jar"
+    },
+    {
+      "path": "mods/puzzleslib-v26.3.15-mc26.3.x+fabric.jar",
+      "sha512": "de3f32b109c6305190b13e5526b98c9840348f33cb786b3d94a9566a337f73bb8d8e27aad6214f795ad0fa71a4889ca93fe11161386fd57ad703c6ef2c94abae",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/QAGBst4M/versions/68hLXNWE/puzzleslib-v26.3.15-mc26.3.x%2Bfabric.jar"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "sha512": "b9339c21e14beec2eae0ca215317284bcaacef72e1d1dee8b3dfbe2de0eefaa758a172446df85419b6534557c479abe972d7d21f4ec194f2d436f9ed4329cb9f",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar"
+    },
+    {
+      "path": "mods/carryon-fabric-26.3-2.12.0.jar",
+      "sha512": "92302e1815fe8b4d41517f001f667a348d4f1e5d0a07d9495b263076cd7a9a30183a0174d4f1a4d6b447161d9d68b08a649f48633583b5955dacd7736d5decc9",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/joEfVgkn/versions/6kJQXHUF/carryon-fabric-26.3-2.12.0.jar"
+    },
+    {
+      "path": "mods/Jade-mc26.3-Fabric-26.3.5.jar",
+      "sha512": "2e7331e62eb6658268ae92dc42de8b469f50dd6c6a9d2546a6f649bae97c2cdfd8d4c1560948cf46269175d2c79c6c47a36a02685e39d476768d18fbb2a28703",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/nvQzSEkH/versions/71CTWqdE/Jade-mc26.3-Fabric-26.3.5.jar"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc26.3-2.31.jar",
+      "sha512": "61c011308b5d1d0b2163473cbbc1ad0f1b3ac873b77e3e9ff67ccb437a946fbe5f34077281ebd2b91647324969d319f6499ac4b319cfcb9ea027bac47a52c081",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar"
+    },
+    {
+      "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar",
+      "sha512": "17d257af419b7530aa8617c2e8c0e4bbfabcf888f26655790e0188e7957e0bcd931f85f9a4c69fd27e889dee5082cf7b2b8741a14a6ed4425e9ef4bfe13a8b8c",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar"
+    },
+    {
+      "path": "mods/cookingforblockheads-fabric-26.3-26.3.0.2.jar",
+      "sha512": "427935a13093a05e25bf1d2ff16ebd26cc4ce1a7e89b35420951bf6bf36c81f1ab9fbbf3ca899bd02f66ebbbb01a56d41d29b83cfc9c1dddeef968c6ca935289",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/vJnhuDde/versions/3vl3upGM/cookingforblockheads-fabric-26.3-26.3.0.2.jar"
+    },
+    {
+      "path": "mods/balm-fabric-26.3-26.3.0.3.jar",
+      "sha512": "aaf07f5b94f7015c87df7b242f3f45f0729fb3f72d887745ad5c5ceb31eb071e425254009158774101676d6480f31c832dd60860d79da5b661cc10b84241c319",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/MBAkmtvl/versions/MYj31XNG/balm-fabric-26.3-26.3.0.3.jar"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.14.0+26.3.jar",
+      "sha512": "70525da0c631f50608b67ecdfe62fd9410fdec7bc95510946716a6465cc109fe6b93be7c75022c47a0036f9954ff5912567a393e1356a75940e9b1da5580698b",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/rcTfTZr3/versions/UUNiN7Tm/PresenceFootsteps-1.14.0%2B26.3.jar"
+    },
+    {
+      "path": "mods/SkniroFurniture-1.6.1-26.3-Fabric.jar",
+      "sha512": "291c02eb7cbb5a9fa0152a99e2d89174311b091607ef1d01c4c4bc64e52cad8d37d1a088377514121e4bdf4ea75af7fdd3a988c97f8c8d36f7ce62e55412d8f6",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/pezpt98N/versions/oTircVlb/SkniroFurniture-1.6.1-26.3-Fabric.jar"
+    },
+    {
+      "path": "mods/storagedelight-26.10.05-26.3-fabric.jar",
+      "sha512": "47a79d3361bbf54b420b4af0fe702cad8219af4b99ea6d08f395dc343d83cc5225c11652f0a39926ca4c32d03850bad2b4a97a53aea1212f6510cdb1d1cfeddc",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/LTTvOp5L/versions/Dvt58c6k/storagedelight-26.10.05-26.3-fabric.jar"
+    },
+    {
+      "path": "mods/stoneworks-v26.3.1-mc26.3.x+fabric.jar",
+      "sha512": "0de8e14ec50aa349172442097648b032262ca51282246c5650fe047cfd1d7fe2c7415a84fb2575ed813c158f2aba17ccd0838eb5ff1efd68e7f85ded60f2aa41",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/FzyTKtVF/versions/blHWPVsk/stoneworks-v26.3.1-mc26.3.x%2Bfabric.jar"
+    },
+    {
+      "path": "mods/rechiseled-1.2.6a-fabric-mc26.3.jar",
+      "sha512": "4cc2b42c5d066ec3b513318a1d1fcc2b58425ce0d114a75fc92a6d19e8a1bd683adcadd0a7576a4043f42b6675e376b24dde0f32dbc5d44decc77a5fff7fb47d",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/B0g2vT6l/versions/iYQqkBMI/rechiseled-1.2.6a-fabric-mc26.3.jar"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.25-fabric-mc26.3.jar",
+      "sha512": "195aad8e737a34d6c95d654226f3585117b0224f14418b08693b3e880a03a7e99ee74dd29fc130651efdbe3769e73bcadc33446f19eae2b5f281ff4a9c3afc33",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/rOUBggPv/versions/alB9Au3G/supermartijn642corelib-1.1.25-fabric-mc26.3.jar"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc26.3.jar",
+      "sha512": "bb60c29d409ed2749f7a4a08b2c6b95c110191914828a54aed7ed4be779362b5a8ba13f871b72b6dbb21059ae397ab1561db8e83aa988173eb63ae00d369bf03",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/LN9BxssP/versions/eYcALOr1/supermartijn642configlib-1.1.8a-fabric-mc26.3.jar"
+    },
+    {
+      "path": "mods/fusion-1.3.16-fabric-mc26.3.jar",
+      "sha512": "0b1d3e06f9f53fcaa661ae223fa8eb175dd5cbde58bb849c25ac0febbfbe59474d45a957a500f8b0e03f0934afb41c7b570acfdb6c914914db913478f4880518",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/p19vrgc2/versions/wRjdAbXf/fusion-1.3.16-fabric-mc26.3.jar"
+    },
+    {
+      "path": "mods/Ecologics-NeoFab-26.3-2.7.1.jar",
+      "sha512": "bde3c4479d6167905cacdc9951367c49a8c8d7423c8118eb3c6beabd77b7c2ba37d245d37b686ef9f83a41f8b75779b454d1b61a64022e49ab141841bbe692b5",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/5UofDvyh/Ecologics-NeoFab-26.3-2.7.1.jar"
+    },
+    {
+      "path": "mods/AmbientSounds_FABRIC_v6.3.10_mc26.3.jar",
+      "sha512": "bb8f47ee6b4952f3ccd71a4e30ee45790c0d3c7e4159a869093cad9cb1389cc7abf1f31f0625d2e4385640ac8662410b0115049cadd1cc30b7a200cfb93f3739",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/fM515JnW/versions/T9Nl4OKj/AmbientSounds_FABRIC_v6.3.10_mc26.3.jar"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.14.19_mc26.3.jar",
+      "sha512": "bcf7b1dae14801206b4a9d6c399741090ad5e278d18240fef1208564415f86b1564c92726ed83f6e2397ed3781cf57f8a61700c4ca0dd9af347b0a4de7e44662",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/OsZiaDHq/versions/GO707F1h/CreativeCore_FABRIC_v2.14.19_mc26.3.jar"
+    },
+    {
+      "path": "mods/collective-26.3.0-8.57.jar",
+      "sha512": "0788233cd55d81291416008a823f12a9f2dd7f4dccadcd3023d62f0bb7734e1c7acdd207a1b94099bf0b208020985bff68eb52214b0f1b3bf1fff3c42f678f41",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/e0M1UDsY/versions/YvB9RrYH/collective-26.3.0-8.57.jar"
+    },
+    {
+      "path": "mods/tiny_flowers-fabric-26.3-2.1.0+26.3.jar",
+      "sha512": "a7b4bf7f523b7968d31f9a8e773fb735348f0c1a814c2a8acf2653a2b9e346bfe7ae060eff3b04fb2cf6aaedac7038680f41c76ca05284120c08219849d478ba",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/S0Lqneqb/versions/3MmVrABN/tiny_flowers-fabric-26.3-2.1.0%2B26.3.jar"
+    },
+    {
+      "path": "mods/mcw-paths-1.1.1-mc26.3fabric.jar",
+      "sha512": "2656c023464d4db33550f7c5ed1ce05cea63a3d10eb70e93a9efb586343db0dc835eeff5dccb81eb2f7a76affe363c9f979693ba12c4a15d2c7c0d737bafa336",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/VRLhWB91/versions/8OfVcwHY/mcw-paths-1.1.1-mc26.3fabric.jar"
+    },
+    {
+      "path": "mods/admincommandtool-1.1.2-26.3.jar",
+      "sha512": "edaca69609265fd0c62e83aa95de44e0513fa64d11d4f72de2a10ec90c31485026beea1fdbeb426e693b7989e5d2ce36238000e7199ae4e32f8a08a517f6251e",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/xje2HwDs/versions/vEoYyw1t/admincommandtool-1.1.2-26.3.jar"
+    },
+    {
+      "path": "mods/particlerain-4.0.2+26.3-fabric.jar",
+      "sha512": "b87684651246c05d0985c88cc0e05ba0e5bdf04d6e5c3ec90962d4342d9f70bc13a4ca86a4276022d71afdcfd69709596e070f3cfe1ae0ee3484dc2924121f19",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/nrikgvxm/versions/ecVAaY1R/particlerain-4.0.2%2B26.3-fabric.jar"
+    },
+    {
+      "path": "mods/mdm-3.0.1-fabric-26.3.jar",
+      "sha512": "41b80ad876eebf4138c41308bc78171b009925cebc72c03dcc7869a883fdd12edf68eca61dfd6232fde17e722641bed2576f795ddd301455b76c9df5995f2131",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/TmUXSYKk/versions/EHzmpLkh/mdm-3.0.1-fabric-26.3.jar"
+    },
+    {
+      "path": "mods/rusticdelight-fabric-26.3-1.7.0.jar",
+      "sha512": "736b828e78fb14e79a0b57e01e206aa5ddc5bbdfd506bfe99882e17006b9d5488f548b2b49d97f8b92689f49109f2fa79338360df4a8f0dc32151ee30ba14189",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/foa4fGIH/versions/ietejMuZ/rusticdelight-fabric-26.3-1.7.0.jar"
+    },
+    {
+      "path": "mods/SereneSeasons-fabric-26.3-26.1.2.0.7.jar",
+      "sha512": "f0ef802ab4a7d95df76855100656f3c0f65c7954b52330d7e3c224a0900359d8e8db8953dde3aca52231a5a90428e9925cac99ca01b22485d4af37640620069c",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/e0bNACJD/versions/V9PxJPuw/SereneSeasons-fabric-26.3-26.1.2.0.7.jar"
+    },
+    {
+      "path": "mods/GlitchCore-fabric-26.3-26.3.0.0.5.jar",
+      "sha512": "f975535e561285898163e7512008fe61ffaac66b6fc60a4e4763d0f2279617f75900d7a2ab2708d8dc348337119df61d2783aa101a9f1a24020f99888aa0d457",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/s3dmwKy5/versions/kfFeDnrp/GlitchCore-fabric-26.3-26.3.0.0.5.jar"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "sha512": "5a86dc45e2999e337cb36f69ca9d388495ea496058b7346d24369c272bec91af055d3fbc37a26a86d0af03a1a29605c4c846612eb58280bafdb648716220927c",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/admincommandtool/MobItemPresets.json",
+      "sha512": "b25b294cb4deb69ea00a4c3cf3113904801b6015e5956bd019a8570b1fe1d6040e944ef3cdee16d0a46503ca6e659a25f21cf9ceddc13f352a3c98138c15d6af",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/admincommandtool/config.json",
+      "sha512": "98c0587ea00c55d6e68a55159acdefbd24e7169d6281a0bf439da33553eff76ab1dcd3d0d4f30426a0b17ec743e62e32ef6b4c71edb499c6df16e24780e4839c",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/appleskin.json5",
+      "sha512": "08657adabdb0247010e2547b53be46e00e7b9ff598dadd71e2fc3a3fb38cf5e8aee8af84c154be354df3f2cb29f50185a651c24f24c074a930a8bb1f146dd1ff",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/carryon-client.json",
+      "sha512": "00c9e4079e6d6191564fbb282695be76b5893e2788974fa17ea31e249fd0d55d4c06478f1725d5b8c36805927199b3b1073a232b458d1daf4013d709b7a41313",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/carryon-common.json",
+      "sha512": "2bf41f18fc566ba186a3728f9bf885f0416704f413aad28402eabbd8ac5810e5a0e47c24fade9d3b6b5f797f5e8d0dd4aed08b6abd71abf5a769760dc33c0a1b",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/continuity.json",
+      "sha512": "51504fc4880ff1321991547e799474d00b46ae51232fefed82b1667f9a9e5e126d48cdc90967f1b8218fe81dc4f5c2161e358af9d55de45c41b599ef57aedb8f",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/cookingforblockheads-common.toml",
+      "sha512": "da56536ea3548aeff11ebc57851688b0c9edf71f3f38c787a6b5b332547a24b47393bae7c56720cc664c9af46c2b8666054bed39650d378c3c16afc2c7c67870",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/cozy_cases/catalog.json",
+      "sha512": "86231ef25a3ec82ddf555a1b614d701afb2e9c36f99c3fdd65cde457621f54240dc092b716b44a997f6f32d1ce0df74313a81613656f422bb76e843b290d233a",
+      "preserve": false,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "sha512": "8ccaa9213a22d85ee861ab0d1f67ba605aca8378b953361dbf61abdbf7c738381539369050da4d8df134751d169466af348ccb913552f671f17e7a17a0b4d02e",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/creativecore.json",
+      "sha512": "96d723f4a27c27cd8d0371cf51c23dbdf2708671c53b135ed6f0989aa78d3b66eb052709100a2c9dababd3122de025f315373a6b2d952e5adcce51d0325ec31e",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/ecologics.json",
+      "sha512": "bcbcfbe77c2bb5ad40ab49280f485b8c10f0f6a2923aa38c854f28f18f8632fc507ac7d958770a359bf3634af00de038ce3f5bfb8f72156e299cd8804312df30",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/farmersdelight-client.json",
+      "sha512": "7ea88e4bdbd8c5a523bad4762e68f9b93700fc8a81b9dcc6fdfce57469ef09a2e6ba64c5fd3805d8c9a6ee86eba9db423dc7c23457457175816795932d0d4778",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/farmersdelight-common.json",
+      "sha512": "73915bc67facf099da32a3a3794a582ae8bbbe6cea0c9ffbe665d369da5773c63cc7aac090ee24d80fae65eff7a01f308999a37e5c6c52915727c24b7a54a49d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "sha512": "7bd8085e398378d3b2d63eefafbdfea21d5e1f0f68af977c4ff1e83fc4b47140f55381865460a03f1ff5eaec9d841045e0930dd7a36f59b1f059a864cb8ef28c",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "sha512": "b31acd7715ef1e2eeab488fd15ca7fbfd831724a39f843f9e7f235153ba5137bc8e82aaf04cec3c47d65f4c370dae6204f371cbc926ea1bac0a6040033028792",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/global_packs.toml",
+      "sha512": "d5d44f44359efec5cdbefbc0aef535769913ab372a140d98e0da0e7a0b8ec6cf4290c1cd97f49679655fd2ca3669c144122003daa44c746c976ad0049972f329",
+      "preserve": false,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "sha512": "a18eb1b4aa4664969acdbc278fecdb547b072445cfccc7524455d40a20c46fee7f34d9dc58dedf8cb238cd4c120a56cb821b9117ad1a51a53a416b587d9fb348",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/iris.properties",
+      "sha512": "f428480812ff089d1db096a3ba0d75dadc3fb408ab31e08a74067d952f6acd07def679d15fa4586f810263a967bcbd24f526aea339a18ba60848dd1874a6c6d8",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "sha512": "4bc814d672a6dd34cc512f8e0b57830cfb52d8ac3330985c846daceaa7a3e49091117f342fbb84fd55c56dd66aed8ef0db89c6028eff35bc4901de88c311c909",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "sha512": "a9327a638a88159d036be404a603b66c2547cbc412e29746d2049549d91ff2198e73d0895329571e66c75d6948f25f72a96a5dcda95385faeef87a2950b56a07",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/hide-mob-effects.json",
+      "sha512": "7e777bc095b030ce0d42ef28cb20e42f2e4f3c46582514e48ad163f1a9875506be5145b551de89ee6cd9e1ea9380160d88429bf437cfcaaf430fcc845ebb4966",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "sha512": "7f3d888ab98f7f307d345c6f169578a6f3ed70d2100ece50f2b4cab8f62e83ce0be7e3ec154df1de16a6c4c43cebf13f8233c7b9af9ec6b0b15640f94fa6d79c",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/profiles/1/jade.json",
+      "sha512": "4b485cb87670763c9696741914bed13625c206577a5c3fcd0b736c745e63051f87c8f36b6bc114d2e9dbe74aaaedb85b13e00a12d9b13007d6d57218b1c77978",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/profiles/2/jade.json",
+      "sha512": "7f0de6fac6a0523bae846ba21566ec98b5e9d8b0146bd3f5dc57fc61a6fb09ad638754bc8263f8cf400a3187c62f23f0d89d34fcfbbf6ca0d059a4af5e2e9f08",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/profiles/3/jade.json",
+      "sha512": "be586c6e68be6748f071762335872ac382e9a88affb9c1a091796e545895ff91e9a4ce4d422cd48f76cb269ad24bf2c524a728e066bbdeabc2a13cce9e6b1ac3",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/server-plugin-overrides.json",
+      "sha512": "27c74670adb75075fad058d5ceaf7b20c4e7786c83bae8a32f626f9782af34c9a33c2046ef60fd2a7878d378e29fec851806bbd9a67878f3a9f1cda4830763fd",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "sha512": "d31c926a306a7843b03ebf5ffa47e328a3a5df9c354dbc5a14b01ab64b2f108d331115be56888087654918b43b430029b963a9b244d4b62b013e2646eccd0dc9",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/lithium.properties",
+      "sha512": "7cc1ad34b644be80c01adecf595809874a1d0a86e9b954e4ba39226bb96ec39c8433ce787c7e11280c598a2cf103c00949ea37406abc3e573fb7d28cca1a0573",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/modmenu.json",
+      "sha512": "f33a3969091c57029b1f69ea19ef7e02ad02e9bec05e98f44c18738f76277b5ecffc14a2d85c494d30ea6413cda06e3008d3e41ca40f4cd14bac8df37c801c08",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/particlerain/config.json",
+      "sha512": "0c038acaa4f53b4f413188c7b9be4344985941666a0f8155ffb1e53931ff058f667b7414f849d6a99365c9297e707acb827f411f2c530eea15391eee167fe93d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/particlerain/particles.json",
+      "sha512": "44fd7a5b7c5c6dce3d02a5b5df9d67f8f61c269cae27d9160028c8f06620b5a0ba54c535f3091d5d6c62c35a17f75292585358a0f13f201c0f5f63489bf3810d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/auto-host.json",
+      "sha512": "6982eb3b6f0c6f7a5503e237533ff369aeaeeee442eb70fe8963d5f461af308ef9b7007107e85f839a7153d2e26ab9538f57edc6be779a8c3d37bdf7d3a80628",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/client.json",
+      "sha512": "7f8b50dcff07a6ecafcd0ae81f9fac3512cfaa5024d56a26b1fad3cb3b3395f7541277c6347891506fdd08cd2ffb6c605411059b58a531b53dc2c8bf42894c34",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/common.json",
+      "sha512": "6716c10c74c5bfe196ede4b5060ec3def62e9f210b44df2ddfaf534ed8e1a59827e43d01a0e71334aaf8658ca4eda9db0e21f457f6aee9e089639cca039df2a9",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/networking.json",
+      "sha512": "0b160d38e68d0bfc925b39696d20c676fd5640121af52e0dbf5257fe09f7fc8b9fe854aa912160ccc957401399792597feadbb9d55478dbf9664c5687458ceec",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/resource-pack.json",
+      "sha512": "9390ac2bedae0c2276b4a29c5012251e825d945415e29b04c3c0c150c4138404ddf6f1b0948333d26df45686610ef9d192db3967845cc0479d777b511b009dfe",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/server.json",
+      "sha512": "a077b14eb6b394c4551567ee696a7f4c50e66f9b0c8e073e9502ab31fb088843d9bbc504a35cf10fc7d1f08842b7ecbd832aecb73fbf63709077ec93ab36b571",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/polymer/sound-patch.json",
+      "sha512": "3617748da2748b36f5d724548850cb983718034f386497842ce8b0821c78bc57ef4549288efcc631415d5fbb6dc3841a41fd2ca94546b18779fa5ab9e0fabac5",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/presencefootsteps/updater.json",
+      "sha512": "102532053c5f3f3842ce309b357d1e0dd36638cac020ecaa0c259ae441198307b13efd32052421089dc46aefae37c85061063eef45d6482ec86a783b26e37b17",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/presencefootsteps/userconfig.json5",
+      "sha512": "76f538d6db4598c772bcae7812b59ade0073c445f492b2b71766776c22d61308651d7f901e092d46f7c5aa73349c137890ec4d807a016b6a33985c913fdf787d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/roughlyenoughitems/collapsible.json5",
+      "sha512": "71a88cea9d30d51da5fdc146748aa36a5f7cf154a429f7b1bb7cb0ac852738a3e8bca8c29fcc98d52c4294b934c547c25c754194e9f691374acf8ac20fe8226d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/roughlyenoughitems/config.json5",
+      "sha512": "c49f861316d2208ff1ff6b29b45facfd933b21aa86256dd52d4de1f3b3213a735f2a149377347ebe96f844a026c2a509e5b981361814af5928fb0add1fba4fd2",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin.properties",
+      "sha512": "a4ae90803db0c7be3da9239c15c6db45c9f35c6078781e4f1ee617eae6ea7006fe91f1cb41679df3ca088f5f078a61bba0cca40fcadf2ecb27570da2f176b2fb",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin_double.properties",
+      "sha512": "e3cf8efffd6856c053b4f0d018de82a0035e40ff5ebb4c606c1c1c757a48a4a72376a3da23167044dca408e9237a7b0154ec117656d1beef0ae61f0946cb6e57",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/rusticdelight.json",
+      "sha512": "0ab0696488c61d9b557841ac90e83378af1ca9cebcce3671a992514b7242d4b4f7f1ab8c13a6b69c91f30f14a91c8ff937652faba81e862daf8e0fdcd6c1113d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/sereneseasons/fertility.toml",
+      "sha512": "dd21cc79aadd9b0d33f9eec31587c782f6063cfe0c85d3424cf54508a5d72a7d725870627911f9fa4027172d115a3990415b07578d672a051306becfcd4b2aa1",
+      "preserve": false,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/sereneseasons/seasons.toml",
+      "sha512": "a9172b6a917746f9b7c29378f8bdf37ab7a58c24e7f733aa3e85f598f8de88766dcd9add1974332e07120cf131715bbcb23c51c272de717470f19dff6fa1bbbe",
+      "preserve": false,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/serilum/collective.json",
+      "sha512": "2022d333421da62aee4dc1fd36b06e624508f3abe096ffb65ef763176c6a077e53c62d5e07ba24e5816422f305b264dcf15dec79b25568148ac3ab02a0b2e9ec",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "sha512": "6acd2f3e4956788d0abd2bd941c5bcb3003b63c58eeedb3db727e5abfd37f036e49e7b97310bd37b9d3c29e2adbcbb3e5109af0482842f704a64a409a59bb437",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "sha512": "0b583c94016957ea26610a7b45ce73655aae648bf554320754d1bae087529de3a9f567e7dcb0fd49a8583fb6a00ed2e4a06bd797e5b304d149c163070528cccf",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/stoneworks-common.toml",
+      "sha512": "35731fde369cbc909becfb9a48dac4aa0a4cbe6f016aef35869931bf973d40e10fdcb36f1ad464c75a9764bc3d686001dcff3aa258ec8219733305a3efd7af5e",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/config.json",
+      "sha512": "390a65aaadeb92d035a3e9bd0533667fad68c9ef73addd9134c4702e7ca9bad9b6118bff0cd2adbeffd4fccec184649ae9ab3efa1839027d9742d66d27fec658",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/corpse_player.json",
+      "sha512": "e8f5911bc85549da6d5bbd377b576c20594158abfc8cd093c134561ed60e52c734e916264a79ed22f2657df14e59b415fed4699634d88b9890956123e35177eb",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/corpse_zombie.json",
+      "sha512": "d7a10825b15875f1fd15373b368793224eb7df10a409a5a12d5e5605f1d99248a9a49b4fc9d6e8c9c4a2b170d6e0a5c146a12652daf18bb78f23dcc778a5ee54",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/default.json",
+      "sha512": "b5d3eb1827eeec3c261cc4887a62170ef237407497890045b080552ef47e6eebf946a2fc6b3da026648278d688a23f33da0a8b6dcd2df86e726e754d3af4fd41",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/ender.json",
+      "sha512": "8453188c9afb03b3b61ec66723a633343da892b7c5cbe7fece24e5726bc8e61014f85be00b4136801c05851afa14e1cc0c2bbb3e37cf8fb8c0a1f356c1753c71",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/player_head.json",
+      "sha512": "b5d3eb1827eeec3c261cc4887a62170ef237407497890045b080552ef47e6eebf946a2fc6b3da026648278d688a23f33da0a8b6dcd2df86e726e754d3af4fd41",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/universal-graves/example_models/soul.json",
+      "sha512": "6bc99cf9d4af96ece406977bb4f82103bb1087b385febdc32959aac8fdbfe209ede681b5910bc92ca77a94333210056c722ac7187390822b98196c3b2ab4e9a9",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "sha512": "3ff7e79c6be8de19c01e5dd1d9d58aab2907343778633b924e8a08a60ac29b41542bb74b709187b2599cfc5cfb294a8d78627c75e16c3634ec8f7d27dc4cc7cc",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/visualworkbench-server.toml",
+      "sha512": "e5ce7a3d7fb997888dac1cdaec32336817be2efeebcf99a8d7375c2e96e9587fb2c3c1375851583d60ba4158305c0df781a8f03c8024c52679c1dfa1899567e9",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "sha512": "bdb681aeb61766238952ad062700f811d267c0f2aeac94e7cf356de36d91f19ea3e2c41dcaa5b2930479f9275bb5862e4ca47442286def6e3c9618c9ba932037",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "sha512": "164710fd669d75d25273e70531d9aba5f17ce68d063d9f060f58aac056f4f755c9466e294aceaa29d344fc1d88c1dffa021743f6c7a6a253a90f86dc2f48e331",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "sha512": "02399da7ff280b84cbb078538e4e85e00c785cea8c2beb50457eb6ebabb91634ab131cc1bbd30692c286eee0467d27856cd2cac0c9c18d799bf19171d1d0a3fa",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "sha512": "45526f5d47396565801fa90b788c0818ce9fd390533b9a96331c0a2750554809adc7d33b89c657f3a68428228804495c3715ad97aa86d9756c46cde1b949f330",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "sha512": "dba4271d6bed5a92406cf111ae3e209a57f05bfbc161e4016bfef72c915c69466e0c027f7c65e400b47c2cf037f1d0874ca0e85a20ee8dc1a0b182d2c5016682",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "sha512": "e7d7c242dc8132c11534c5e1266675785b0402868bd6ea21b992eb7050584778a7c66037732cfd471206d76d2bef1c2002bc69fa0eb0fd929d66a6ab76e940f4",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "sha512": "3cc68ebc3b061d9475f2798d6589aa07c943bcee8e4eedc07647f2062392b55135b0726110f25676722f7fce12b8a655bea14b8eedf0eaa4c14b07176f69f9ab",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "sha512": "756501db46beff266f5530094922faf25fe91a7a8835265e04411c75a1284ba8153ef05a0eb59b9b9a64b5258bbd88de4804b2c376747ccf0f6df52fbf8814e9",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha512": "24333ae933428753dfa60922bb114a91941b61f1a213a83ce05c795c8f2482d18faf4b965169d796a13fa29d790532b46fdbcae25652c05e88123fa57be8d991",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "sha512": "1d99e0646265f6fd043c86948eedf6138d4962adfb9da1fd579f5d0cfce1cb58ed586265067e4dd0e55dd80bf56a735b7f1d4692ef8a46c2c9678d9388588668",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "sha512": "7c158354bb358390fa6c878669b66ef31e1357b9fc8a082b26e6fb52c617af4aa3bee48fc03e602497b0ad395f7995915ad9f87ba88550d82c2d8e89e3343651",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "sha512": "07c04255696b031cc6d567fe90ecac0e01fdaa3799bae24357e2ce2f2f43b1a6036da6f73e342b2de5def2a61dfe68ff16f70b5b9e3710da2b8acf908d1b7446",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "sha512": "97f01c7a3fa251db33a77467d4f167d7fd2935a13113e96243c6e331a215f1f9ceb1baacac29876a784f12cbb345e8be58b40a3632513c85375819fe2a21400e",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "datapacks/cozy-home-workshop.zip",
+      "sha512": "c33982b37e1041d261c9ab50a391607eb42cd9315f6c69b5c95cceed79959ed746f1b2d1a2e34d8b1f92dd0a207cc7a4bb8735ec27b6ff81d5767561637fdf82",
+      "preserve": false,
+      "source": "pack-config"
+    },
+    {
+      "path": "mods/CozyCases-1.2.1+mc26.3.jar",
+      "sha512": "a43198ca7aac176934a4652548ef7b2d237752f7dd7818cfd174fae68968c7dc312f5fcad2924235ff1ef96864537c370549b6257ec4b8bb83564568395f2e9f",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyCases-1.2.1+mc26.3.jar"
+    },
+    {
+      "path": ".fallens/catalog/base.jar",
+      "sha512": "e78a9035137607452190fffdb519367719e029625d2a875a5e80d6e504ec78327afaed25868750aae43e919268ba4afb8b4c038b8ae5997fe0a0b6232411b3a1",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyCatalog-1.0.2-public-base.jar"
+    },
+    {
+      "path": "mods/CozySpawn-1.0.0+mc26.3.jar",
+      "sha512": "8875fc9190d23610e09bdd91c4ff4a0a24aad77babeb9553e9f40fe91667bf2d1c4597d616d613a6388b47bb049a18426014e7ccfb487638d0db99b6187f35a8",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozySpawn-1.0.0+mc26.3.jar"
+    },
+    {
+      "path": "mods/CozyTagGuard-1.0.0+mc26.3.jar",
+      "sha512": "2ab9e32c2ec1be897756d2b7ae5e4c9aca61a68a59994abaf1dddcfa33fefd7768be9dab501597ea51cd7652cd9a172aa593e68a00229d19ca73118956028b5c",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyTagGuard-1.0.0+mc26.3.jar"
+    },
+    {
+      "path": "mods/cozy-act-russian-1.1.1.jar",
+      "sha512": "ae55820b9e1ffcb591ff22f6f8ffa7b785899a081401d738dd35a56a2ca660d4eeba2290fd5dde5f5a9dfc772d3eaf9431810c56d128c6993e3f69d7be657c41",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/cozy-act-russian-1.1.1.jar"
+    },
+    {
+      "path": "mods/cozy-mdm-russian-1.0.0.jar",
+      "sha512": "2e02bd38a5a3cf52c0fa29e75a5c78ec95947ef23da7ee59455852c7a9fb2c7fe7e3ecbb85d008024f73b94e7b75a287827d78f691dc57b7a94637ec87edb488",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/cozy-mdm-russian-1.0.0.jar"
+    },
+    {
+      "path": ".fallens/create/upstream.jar",
+      "sha512": "e8f177ee096ca3436c196ad12cd6660e91419d61043f72ad3194ed3ac25c3e289fc67e2a12cdfbbaeeb1a1e50e161c0152570c4495a1a26bbeece4e86d128f0c",
+      "preserve": false,
+      "source": "https://cdn.modrinth.com/data/dKvj0eNn/versions/FV8OvjTb/create-fly-26.2-6.0.9-2.jar"
+    },
+    {
+      "path": ".fallens/create/overlay.zip",
+      "sha512": "c233d42b1049a53741bc2011c8c1011547f99fd18d4dc5657aee5f41c94ab0ad7dd5843c98777061e4de04db0febb7ef98735dd04f0eb0d593e7ce7b38ee05e4",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/create-26.3-port.3-overlay.zip"
+    },
+    {
+      "path": "options.txt",
+      "sha512": "1af841dc8e8dbe7fa52f87733060aa61e136a41d3210820db8f47eb6bba6506c011b6dee0a20a4bbce123f1bca18fe2923507575e0f4e28da11b1fdef9a359d5",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
+      "sha512": "75838602e9887da69897202a625c518b92c472eb79d6c33d7383db0ee07d20801a3978fac18bcf7e715e6d4278c456563816e17bde8c1caa41c5722bb3ebf6dc",
+      "preserve": true,
+      "source": "pack-config"
+    },
+    {
+      "path": ".fallens/catalog/recipe.properties",
+      "sha512": "1e82be0b875f4237885c1801f8783bd1fcb811571cf1b266d24e0ca9bdf79bac3ee771e7cd38d0f71bbe35c0b6b30c85b66d5572e4adf5557d39d95301a2aaea",
+      "preserve": false,
+      "source": "pack-config"
+    }
+  ],
+  "create": {
+    "delivery": "official upstream + local overlay",
+    "version": "6.0.9-cozy26.3-port.3",
+    "overlay": {
+      "copy": 7692,
+      "normalize_newlines": 6326,
+      "full": 2595,
+      "delta": [
+        {
+          "entry": "assets/create/shaders/core/glowing_shader.fsh",
+          "old_sha256": "3696241dc4df312938dbb3588d355e9b0cac456e02008f97f6667cc5012c0354",
+          "new_sha256": "3384331a616ae7c2f8e9a4f89497d6b98047a0f08db5e0c9453331194a370be0",
+          "patch_size": 596
+        },
+        {
+          "entry": "assets/create/shaders/core/glowing_shader.vsh",
+          "old_sha256": "3bec55f8bfdc3931e56685655eb80f1513d91b449731fd167652382c25c171a5",
+          "new_sha256": "7755524be8799643ba2abe524c125e45d006ebfe80e349f020b0a4fbdabddb30",
+          "patch_size": 864
+        }
+      ]
+    }
+  },
+  "settings": "existing personal settings preserved; managed season/datapack config may update"
+}
