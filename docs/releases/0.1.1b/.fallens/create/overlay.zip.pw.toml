@@ -1,0 +1,8 @@
+name = "overlay.zip"
+filename = "overlay.zip"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/create-26.3-port.3-overlay.zip"
+hash-format = "sha512"
+hash = "c233d42b1049a53741bc2011c8c1011547f99fd18d4dc5657aee5f41c94ab0ad7dd5843c98777061e4de04db0febb7ef98735dd04f0eb0d593e7ce7b38ee05e4"

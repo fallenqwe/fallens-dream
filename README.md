@@ -1,14 +1,16 @@
 # Fallen's Dream
 
 Уютная сборка Minecraft с Create, декором, атмосферными сезонами и шейдерами.
-Текущий выпуск: **0.1b** · Minecraft **26.3** · Fabric **0.19.5** · Java **25**.
+Текущий выпуск: **0.1.1b** · Minecraft **26.3** · Fabric **0.19.5** · Java **25**.
 
-## Установить
+## Установить на Windows
 
 1. Установить [Prism Launcher](https://prismlauncher.org/download/) и добавить свой аккаунт Minecraft Java.
-2. [Скачать Fallen's Dream для Prism](https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/Fallens-Dream-Prism.zip).
+2. [Скачать Fallen's Dream для Prism](https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.1b/Fallens-Dream-Prism.zip).
 3. В Prism: **Добавить сборку → Импорт из ZIP** → выбрать скачанный ZIP.
 4. Нажать **Запустить**. При первом запуске установщик скачает файлы сборки; Prism установит компоненты игры. При необходимости разрешить Prism подобрать Java 25.
+
+Стартовый ZIP предназначен для Windows и использует штатный Windows PowerShell. Предстартовая команда проверяет Java 25 в установках Prism, даже если переменная `INST_JAVA` пуста.
 
 После установки достаточно нажимать **Запустить**: перед игрой автоматически проверяется канал сборки и применяется опубликованное обновление. Повторно импортировать ZIP для каждого обновления не нужно.
 

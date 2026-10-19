@@ -1,0 +1,8 @@
+name = "FarmersDelight-26.3-3.6.28+refabricated.jar"
+filename = "FarmersDelight-26.3-3.6.28+refabricated.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/Zdr0cHIz/FarmersDelight-26.3-3.6.28%2Brefabricated.jar"
+hash-format = "sha512"
+hash = "337ee6b7ef6eb4bc7304531b77d91c942ba758adf47ae1feab5f68b46947821c932c4f9be662d18a218a9d6d4a8c41e31cb239d089dac094101b7ef674703f62"

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "powershell": "Windows PowerShell 5.1",
+  "bootstrap_sha256": "3fe74606876cc84b0c34f715485ce6ed998fce703e2f1c9e2a489685e04b83c9",
+  "no_java_on_path": true,
+  "cases": [
+    {
+      "case": "empty-java",
+      "exit_code": 0,
+      "java25_selected": true
+    },
+    {
+      "case": "invalid-java",
+      "exit_code": 0,
+      "java25_selected": true
+    },
+    {
+      "case": "valid-javaw",
+      "exit_code": 0,
+      "java25_selected": true
+    }
+  ],
+  "minecraft_started": false
+}

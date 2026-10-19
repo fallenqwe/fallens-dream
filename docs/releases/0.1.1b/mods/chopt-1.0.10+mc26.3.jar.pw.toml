@@ -1,0 +1,8 @@
+name = "chopt-1.0.10+mc26.3.jar"
+filename = "chopt-1.0.10+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/omDn2JEQ/versions/EefpN74x/chopt-1.0.10%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "d5d3c1050d50a5ecb69c6ec2cbff1496b07cab2f4199c66105d3b50a95460c0dd168c40f6e42b2e959235bc5841f3d9b59bf8ba385d08d63539b0cfdf4a7957e"

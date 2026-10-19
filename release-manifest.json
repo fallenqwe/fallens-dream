@@ -1,6 +1,6 @@
 {
   "name": "Fallen's Dream",
-  "version": "0.1b",
+  "version": "0.1.1b",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "java": 25,
@@ -887,5 +887,10 @@
       ]
     }
   },
-  "settings": "existing personal settings preserved; managed season/datapack config may update"
+  "settings": "existing personal settings preserved; managed season/datapack config may update",
+  "windows_bootstrap": {
+    "file": "tools/windows/launch.ps1",
+    "sha256": "3fe74606876cc84b0c34f715485ce6ed998fce703e2f1c9e2a489685e04b83c9",
+    "requires": "Windows PowerShell 5.1"
+  }
 }
