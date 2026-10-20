@@ -12,3 +12,5 @@ Fallen's Dream — неофициальная сборка Minecraft. Minecraft 
 - Complementary Reimagined и остальные сторонние файлы загружаются с оригинальных URL, закреплённых в манифестах; собственные условия авторов сохраняются.
 
 Наши сценарии публикации и обёртка установщика распространяются по MIT (`LICENSE`). Это не лицензирует заново сторонние файлы.
+
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat/version/OLnMVWXy) — Max Henkel, версия2.6.24+26.3, All Rights Reserved. Официальный FAQ разрешает модпаки с указанием автора: https://modrepo.de/minecraft/voicechat/faq. JAR не перезаливается на наш GitHub: клиент получает его по закреплённому URL автора с проверкой SHA512.

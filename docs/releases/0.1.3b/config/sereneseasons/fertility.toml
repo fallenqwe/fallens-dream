@@ -1,0 +1,7 @@
+# Draft alternative: atmosphere. Prepared only, not installed or approved.
+[general]
+seasonal_crops = false
+crop_tooltips = false
+# Used only when seasonal_crops=true: 0 slows growth, never breaks crops.
+out_of_season_crop_behavior = 0
+underground_fertility_level = 48
