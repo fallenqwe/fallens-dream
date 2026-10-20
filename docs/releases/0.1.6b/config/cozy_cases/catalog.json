@@ -1,0 +1,636 @@
+{
+  "rarities": [
+    {
+      "id": "common",
+      "name": "ОБЫЧНЫЙ",
+      "color": "94A3B8",
+      "weight": 4500
+    },
+    {
+      "id": "uncommon",
+      "name": "НЕОБЫЧНЫЙ",
+      "color": "4ADEAA",
+      "weight": 3000
+    },
+    {
+      "id": "rare",
+      "name": "РЕДКИЙ",
+      "color": "50B9FF",
+      "weight": 1600
+    },
+    {
+      "id": "epic",
+      "name": "ЭПИЧЕСКИЙ",
+      "color": "BC86FF",
+      "weight": 700
+    },
+    {
+      "id": "legendary",
+      "name": "ЛЕГЕНДАРНЫЙ",
+      "color": "FFCA68",
+      "weight": 180
+    },
+    {
+      "id": "mythic",
+      "name": "МИФИЧЕСКИЙ",
+      "color": "FF6CA8",
+      "weight": 20
+    }
+  ],
+  "cases": [
+    {
+      "id": "cozy_home",
+      "name": "Уютный дом",
+      "subtitle": "Мебель, свет и маленькие радости",
+      "color": "61DDB7",
+      "price": 900,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:oak_planks",
+          "count": 32
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:white_wool",
+          "count": 16
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:lantern",
+          "count": 8
+        },
+        {
+          "tier": 1,
+          "item": "mcwfurnitures:stripped_oak_chair",
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "item": "mcwfurnitures:stripped_oak_coffee_table",
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:bookshelf",
+          "count": 8
+        },
+        {
+          "tier": 2,
+          "item": "mcwfurnitures:white_couch",
+          "count": 4
+        },
+        {
+          "tier": 2,
+          "item": "mcwfurnitures:stripped_oak_wardrobe",
+          "count": 4
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:sea_lantern",
+          "count": 16
+        },
+        {
+          "tier": 3,
+          "item": "mcwfurnitures:white_chaise",
+          "count": 8
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:shroomlight",
+          "count": 24
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:quartz_block",
+          "count": 48
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:diamond_block",
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:gold_block",
+          "count": 8
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:amethyst_block",
+          "count": 64
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:beacon",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:nether_star",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:emerald_block",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "id": "bounty",
+      "name": "Остров Баунти",
+      "subtitle": "Пальмы, море и вечные каникулы",
+      "color": "55D8FF",
+      "price": 1500,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:sand",
+          "count": 64
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:bamboo",
+          "count": 48
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:white_wool",
+          "count": 24
+        },
+        {
+          "tier": 1,
+          "item": "ecologics:coconut_seedling",
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "item": "mcwfurnitures:white_chaise",
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "item": "ecologics:sandcastle",
+          "count": 4
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:prismarine",
+          "count": 48
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:sea_lantern",
+          "count": 16
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:tropical_fish_bucket",
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:heart_of_the_sea",
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:nautilus_shell",
+          "count": 8
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:sponge",
+          "count": 8
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:trident",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:conduit",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:turtle_helmet",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:elytra",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:beacon",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:netherite_ingot",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "workshop",
+      "name": "Мастерская",
+      "subtitle": "Инструменты для больших планов",
+      "color": "FFA66B",
+      "price": 2200,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:iron_ingot",
+          "count": 24
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:copper_ingot",
+          "count": 48
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:coal",
+          "count": 48
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:iron_pickaxe",
+          "count": 1
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:anvil",
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:gold_ingot",
+          "count": 24
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond_pickaxe",
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond_axe",
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond_shovel",
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:diamond",
+          "count": 16
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:ancient_debris",
+          "count": 3
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:experience_bottle",
+          "count": 32
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:netherite_pickaxe",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:netherite_axe",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:netherite_ingot",
+          "count": 2
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:netherite_block",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:beacon",
+          "count": 2
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:elytra",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "treasury",
+      "name": "Сокровищница",
+      "subtitle": "Ресурсы, самоцветы и удача",
+      "color": "FFD16D",
+      "price": 3200,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:redstone",
+          "count": 64
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:lapis_lazuli",
+          "count": 48
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:amethyst_shard",
+          "count": 48
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:gold_ingot",
+          "count": 32
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:emerald",
+          "count": 24
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:iron_block",
+          "count": 8
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond",
+          "count": 12
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:gold_block",
+          "count": 8
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:emerald_block",
+          "count": 4
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:diamond_block",
+          "count": 4
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:ancient_debris",
+          "count": 6
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:netherite_scrap",
+          "count": 8
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:netherite_ingot",
+          "count": 4
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:enchanted_golden_apple",
+          "count": 3
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:totem_of_undying",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:netherite_block",
+          "count": 2
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:diamond_block",
+          "count": 32
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:nether_star",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "architect",
+      "name": "Архитектор",
+      "subtitle": "Материалы для дома мечты",
+      "color": "AB9AFF",
+      "price": 4000,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:stone_bricks",
+          "count": 64
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:quartz_block",
+          "count": 48
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:terracotta",
+          "count": 64
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:cherry_planks",
+          "count": 64
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:glass",
+          "count": 64
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:copper_block",
+          "count": 32
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:sea_lantern",
+          "count": 48
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:end_rod",
+          "count": 32
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:smooth_quartz",
+          "count": 64
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:crying_obsidian",
+          "count": 32
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:amethyst_block",
+          "count": 64
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:gilded_blackstone",
+          "count": 32
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:diamond_block",
+          "count": 8
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:gold_block",
+          "count": 48
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:emerald_block",
+          "count": 16
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:beacon",
+          "count": 3
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:netherite_block",
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:enchanted_golden_apple",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "aurora",
+      "name": "Аврора",
+      "subtitle": "Самый яркий шанс на невозможное",
+      "color": "FF79B6",
+      "price": 5000,
+      "rewards": [
+        {
+          "tier": 0,
+          "item": "minecraft:diamond",
+          "count": 4
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:emerald",
+          "count": 32
+        },
+        {
+          "tier": 0,
+          "item": "minecraft:experience_bottle",
+          "count": 32
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:diamond",
+          "count": 12
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:gold_block",
+          "count": 12
+        },
+        {
+          "tier": 1,
+          "item": "minecraft:ender_pearl",
+          "count": 16
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond_chestplate",
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:diamond_sword",
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "item": "minecraft:netherite_scrap",
+          "count": 4
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:totem_of_undying",
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:trident",
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "item": "minecraft:netherite_ingot",
+          "count": 3
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:elytra",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:netherite_chestplate",
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "item": "minecraft:nether_star",
+          "count": 2
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:netherite_block",
+          "count": 3
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:beacon",
+          "count": 4
+        },
+        {
+          "tier": 5,
+          "item": "minecraft:elytra",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

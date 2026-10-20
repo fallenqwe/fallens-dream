@@ -1,0 +1,19 @@
+# Draft for MC 26.3; prepared only, not installed or approved.
+# Default season pacing; empty servers pause the season clock in this proposal.
+[weather_settings]
+generate_snow_ice = true
+change_weather_frequency = true
+
+[time_settings]
+day_duration = 24000
+sub_season_duration = 8
+starting_sub_season = 1
+progress_season_while_offline = false
+
+[aesthetic_settings]
+change_grass_color = true
+change_foliage_color = true
+change_birch_color = true
+
+[dimension_settings]
+whitelisted_dimensions = ["minecraft:overworld"]

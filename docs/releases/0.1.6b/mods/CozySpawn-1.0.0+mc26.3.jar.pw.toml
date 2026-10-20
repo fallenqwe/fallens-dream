@@ -1,0 +1,8 @@
+name = "CozySpawn-1.0.0+mc26.3.jar"
+filename = "CozySpawn-1.0.0+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozySpawn-1.0.0+mc26.3.jar"
+hash-format = "sha512"
+hash = "8875fc9190d23610e09bdd91c4ff4a0a24aad77babeb9553e9f40fe91667bf2d1c4597d616d613a6388b47bb049a18426014e7ccfb487638d0db99b6187f35a8"

@@ -1,0 +1,8 @@
+name = "rusticdelight-fabric-26.3-1.7.0.jar"
+filename = "rusticdelight-fabric-26.3-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/ietejMuZ/rusticdelight-fabric-26.3-1.7.0.jar"
+hash-format = "sha512"
+hash = "736b828e78fb14e79a0b57e01e206aa5ddc5bbdfd506bfe99882e17006b9d5488f548b2b49d97f8b92689f49109f2fa79338360df4a8f0dc32151ee30ba14189"
