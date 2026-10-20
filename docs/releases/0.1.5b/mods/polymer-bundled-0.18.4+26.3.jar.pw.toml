@@ -1,0 +1,8 @@
+name = "polymer-bundled-0.18.4+26.3.jar"
+filename = "polymer-bundled-0.18.4+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/G0fTdl8M/polymer-bundled-0.18.4%2B26.3.jar"
+hash-format = "sha512"
+hash = "9620ef10509978f5076ca414ae69f615a6e09a53389f920155eae6aae631032bef975a89ae99509949473a82c6909e441b0a93c144629bf8a3d585b848998378"

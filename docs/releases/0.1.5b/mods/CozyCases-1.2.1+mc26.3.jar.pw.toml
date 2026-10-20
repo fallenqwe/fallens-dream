@@ -1,0 +1,8 @@
+name = "CozyCases-1.2.1+mc26.3.jar"
+filename = "CozyCases-1.2.1+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyCases-1.2.1+mc26.3.jar"
+hash-format = "sha512"
+hash = "a43198ca7aac176934a4652548ef7b2d237752f7dd7818cfd174fae68968c7dc312f5fcad2924235ff1ef96864537c370549b6257ec4b8bb83564568395f2e9f"

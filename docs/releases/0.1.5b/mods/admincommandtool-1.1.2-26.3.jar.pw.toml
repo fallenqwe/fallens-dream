@@ -1,0 +1,8 @@
+name = "admincommandtool-1.1.2-26.3.jar"
+filename = "admincommandtool-1.1.2-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xje2HwDs/versions/vEoYyw1t/admincommandtool-1.1.2-26.3.jar"
+hash-format = "sha512"
+hash = "edaca69609265fd0c62e83aa95de44e0513fa64d11d4f72de2a10ec90c31485026beea1fdbeb426e693b7989e5d2ce36238000e7199ae4e32f8a08a517f6251e"

@@ -1,0 +1,8 @@
+name = "Create: Steam 'n' Rails (Fallen's Dream 26.3 port)"
+filename = "Steam_Rails-1.7.3.1+fly-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/Steam_Rails-1.7.3.1-fly-mc26.3.jar"
+hash-format = "sha512"
+hash = "72c973b2a11e744d156501f783a9132593e72d291a41636f0247b08307b88897fc8bfe75dc934708037779fd5d755d879a1c142bb4ff6bff8b29823f51a69160"

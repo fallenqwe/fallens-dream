@@ -1,0 +1,8 @@
+name = "tiny_flowers-fabric-26.3-2.1.0+26.3.jar"
+filename = "tiny_flowers-fabric-26.3-2.1.0+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0Lqneqb/versions/3MmVrABN/tiny_flowers-fabric-26.3-2.1.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "a7b4bf7f523b7968d31f9a8e773fb735348f0c1a814c2a8acf2653a2b9e346bfe7ae060eff3b04fb2cf6aaedac7038680f41c76ca05284120c08219849d478ba"

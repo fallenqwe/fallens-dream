@@ -1,0 +1,8 @@
+name = "mcw-fences-1.2.1-mc26.3fabric.jar"
+filename = "mcw-fences-1.2.1-mc26.3fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/IYu8DBo9/mcw-fences-1.2.1-mc26.3fabric.jar"
+hash-format = "sha512"
+hash = "d2ec720b0976004876c77a20b86d509f3391dcfb0db5827d021fefd693da9f2cf34f0ec58c5e3b08e2bd46cd274743b45951b321f9860c93a6fbf700f17ee61d"

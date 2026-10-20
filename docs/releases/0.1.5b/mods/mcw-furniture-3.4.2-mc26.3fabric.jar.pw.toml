@@ -1,0 +1,8 @@
+name = "mcw-furniture-3.4.2-mc26.3fabric.jar"
+filename = "mcw-furniture-3.4.2-mc26.3fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dtWC90iB/versions/8Z6HSCVW/mcw-furniture-3.4.2-mc26.3fabric.jar"
+hash-format = "sha512"
+hash = "90030a9f642c254ea954588b66c78ae4c65246a8c14148b23cde144d031d24dff09f4e14271ca9de78af9210165536d51b306144f442d75c2efa27517a083e0e"

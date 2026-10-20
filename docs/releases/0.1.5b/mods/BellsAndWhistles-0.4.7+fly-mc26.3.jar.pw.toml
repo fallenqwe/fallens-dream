@@ -1,0 +1,8 @@
+name = "Create: Bells & Whistles (Fallen's Dream 26.3 port)"
+filename = "BellsAndWhistles-0.4.7+fly-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/BellsAndWhistles-0.4.7-fly-mc26.3.jar"
+hash-format = "sha512"
+hash = "5994823b77b67a775e150d017583e47eed8719cb5850dd4c7123dfe2162a9ea5f51ed1565b640e5a9ad2828eab353106a99ce16b8f4c30e012cb7bb412cecf0e"

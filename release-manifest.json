@@ -1,6 +1,6 @@
 {
   "name": "Fallen's Dream",
-  "version": "0.1.4b",
+  "version": "0.1.5b",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "java": 25,
@@ -871,21 +871,21 @@
     },
     {
       "path": "mods/createaddition-1.7.2.1+fly-mc26.3.jar",
-      "sha512": "887ed466ee8ce97ee60798fc1ce6cc0cd06bd7b720cf846111c7e5c914291f6ffbc36df57c21ce80f90b42f1900be051b9edf496198cc65383e5f423a8357e0a",
+      "sha512": "8f1427a09dcc96c273a8728ce89a4f121ea797600f91d393abad7fa4d3ebcfabea17308256655a62cd499f7cb51b54063917311470331dd028c9dabec7e548a1",
       "preserve": false,
-      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/createaddition-1.7.2.1-fly-mc26.3.jar"
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/createaddition-1.7.2.1-fly-mc26.3.jar"
     },
     {
       "path": "mods/BellsAndWhistles-0.4.7+fly-mc26.3.jar",
-      "sha512": "357d1be7b168e7805b3177791b393dbdd9b3955860bf169f1ec2fa03ead02ec96cec1739026332c8fb3a8008362c8adac04232dd3c9588b4120e23ca100dcb5e",
+      "sha512": "5994823b77b67a775e150d017583e47eed8719cb5850dd4c7123dfe2162a9ea5f51ed1565b640e5a9ad2828eab353106a99ce16b8f4c30e012cb7bb412cecf0e",
       "preserve": false,
-      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/BellsAndWhistles-0.4.7-fly-mc26.3.jar"
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/BellsAndWhistles-0.4.7-fly-mc26.3.jar"
     },
     {
       "path": "mods/Steam_Rails-1.7.3.1+fly-mc26.3.jar",
-      "sha512": "f0edd2d4f84cbbc11b87aa1370b86278b864f7570e6e1abc66214900fad4deb66fd964c29fc16be1da41bb2c8698aa18a96c1e5ce00a219307b6ab2d3da9bc45",
+      "sha512": "72c973b2a11e744d156501f783a9132593e72d291a41636f0247b08307b88897fc8bfe75dc934708037779fd5d755d879a1c142bb4ff6bff8b29823f51a69160",
       "preserve": false,
-      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/Steam_Rails-1.7.3.1-fly-mc26.3.jar"
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/Steam_Rails-1.7.3.1-fly-mc26.3.jar"
     }
   ],
   "create": {
@@ -933,26 +933,26 @@
       {
         "name": "Create Crafts & Additions (Fallen's Dream 26.3 port)",
         "asset": "createaddition-1.7.2.1-fly-mc26.3.jar",
-        "sha512": "887ed466ee8ce97ee60798fc1ce6cc0cd06bd7b720cf846111c7e5c914291f6ffbc36df57c21ce80f90b42f1900be051b9edf496198cc65383e5f423a8357e0a",
+        "sha512": "8f1427a09dcc96c273a8728ce89a4f121ea797600f91d393abad7fa4d3ebcfabea17308256655a62cd499f7cb51b54063917311470331dd028c9dabec7e548a1",
         "license": "MIT",
         "upstream": "https://github.com/chaevsfe/createaddition"
       },
       {
         "name": "Create: Bells & Whistles (Fallen's Dream 26.3 port)",
         "asset": "BellsAndWhistles-0.4.7-fly-mc26.3.jar",
-        "sha512": "357d1be7b168e7805b3177791b393dbdd9b3955860bf169f1ec2fa03ead02ec96cec1739026332c8fb3a8008362c8adac04232dd3c9588b4120e23ca100dcb5e",
+        "sha512": "5994823b77b67a775e150d017583e47eed8719cb5850dd4c7123dfe2162a9ea5f51ed1565b640e5a9ad2828eab353106a99ce16b8f4c30e012cb7bb412cecf0e",
         "license": "GPL-3.0-or-later",
         "upstream": "https://github.com/chaevsfe/BellsAndWhistlesMod"
       },
       {
         "name": "Create: Steam 'n' Rails (Fallen's Dream 26.3 port)",
         "asset": "Steam_Rails-1.7.3.1-fly-mc26.3.jar",
-        "sha512": "f0edd2d4f84cbbc11b87aa1370b86278b864f7570e6e1abc66214900fad4deb66fd964c29fc16be1da41bb2c8698aa18a96c1e5ce00a219307b6ab2d3da9bc45",
+        "sha512": "72c973b2a11e744d156501f783a9132593e72d291a41636f0247b08307b88897fc8bfe75dc934708037779fd5d755d879a1c142bb4ff6bff8b29823f51a69160",
         "license": "LGPL-3.0-only",
         "upstream": "https://github.com/chaevsfe/Create-Steam-n-Rails-Fly"
       }
     ],
-    "source_asset": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/fallens-dream-0.1.4b-create-addons-source.zip",
+    "source_asset": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.5b/fallens-dream-0.1.5b-create-addons-source.zip",
     "client_and_server": true,
     "in_game_tested": false
   }

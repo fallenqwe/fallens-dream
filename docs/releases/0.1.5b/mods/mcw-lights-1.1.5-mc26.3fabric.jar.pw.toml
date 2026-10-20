@@ -1,0 +1,8 @@
+name = "mcw-lights-1.1.5-mc26.3fabric.jar"
+filename = "mcw-lights-1.1.5-mc26.3fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/LolTDv3X/mcw-lights-1.1.5-mc26.3fabric.jar"
+hash-format = "sha512"
+hash = "ca8d0cc9841d5071abec7286e590aaad8af9326378702a3f44dfab27f15148509f3d7c8544a610085fc4e5f3ad8f3dcf3d8a9524751589503d8cec271598c8a4"
