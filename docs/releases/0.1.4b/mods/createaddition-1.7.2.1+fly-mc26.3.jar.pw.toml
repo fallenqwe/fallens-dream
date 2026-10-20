@@ -1,0 +1,8 @@
+name = "Create Crafts & Additions (Fallen's Dream 26.3 port)"
+filename = "createaddition-1.7.2.1+fly-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/createaddition-1.7.2.1-fly-mc26.3.jar"
+hash-format = "sha512"
+hash = "887ed466ee8ce97ee60798fc1ce6cc0cd06bd7b720cf846111c7e5c914291f6ffbc36df57c21ce80f90b42f1900be051b9edf496198cc65383e5f423a8357e0a"

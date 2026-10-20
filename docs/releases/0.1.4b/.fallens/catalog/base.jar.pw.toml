@@ -1,0 +1,8 @@
+name = "base.jar"
+filename = "base.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyCatalog-1.0.2-public-base.jar"
+hash-format = "sha512"
+hash = "e78a9035137607452190fffdb519367719e029625d2a875a5e80d6e504ec78327afaed25868750aae43e919268ba4afb8b4c038b8ae5997fe0a0b6232411b3a1"

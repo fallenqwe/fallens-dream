@@ -1,6 +1,6 @@
 {
   "name": "Fallen's Dream",
-  "version": "0.1.3b",
+  "version": "0.1.4b",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "java": 25,
@@ -868,6 +868,24 @@
       "sha512": "414eb51967305fe7740d34016bc8e3e4e2fa1590e1278ad06bcdfa0687f65007b825d345dc09f79a992704a51ec93baf01fe727e0bbc32fdf506828b5a65d85a",
       "preserve": false,
       "source": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar"
+    },
+    {
+      "path": "mods/createaddition-1.7.2.1+fly-mc26.3.jar",
+      "sha512": "887ed466ee8ce97ee60798fc1ce6cc0cd06bd7b720cf846111c7e5c914291f6ffbc36df57c21ce80f90b42f1900be051b9edf496198cc65383e5f423a8357e0a",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/createaddition-1.7.2.1-fly-mc26.3.jar"
+    },
+    {
+      "path": "mods/BellsAndWhistles-0.4.7+fly-mc26.3.jar",
+      "sha512": "357d1be7b168e7805b3177791b393dbdd9b3955860bf169f1ec2fa03ead02ec96cec1739026332c8fb3a8008362c8adac04232dd3c9588b4120e23ca100dcb5e",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/BellsAndWhistles-0.4.7-fly-mc26.3.jar"
+    },
+    {
+      "path": "mods/Steam_Rails-1.7.3.1+fly-mc26.3.jar",
+      "sha512": "f0edd2d4f84cbbc11b87aa1370b86278b864f7570e6e1abc66214900fad4deb66fd964c29fc16be1da41bb2c8698aa18a96c1e5ce00a219307b6ab2d3da9bc45",
+      "preserve": false,
+      "source": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/Steam_Rails-1.7.3.1-fly-mc26.3.jar"
     }
   ],
   "create": {
@@ -909,5 +927,33 @@
     "client_and_server": true,
     "server_port": "separate allocation included in existing hosting quota",
     "in_game_audio_tested": false
+  },
+  "create_addons": {
+    "mods": [
+      {
+        "name": "Create Crafts & Additions (Fallen's Dream 26.3 port)",
+        "asset": "createaddition-1.7.2.1-fly-mc26.3.jar",
+        "sha512": "887ed466ee8ce97ee60798fc1ce6cc0cd06bd7b720cf846111c7e5c914291f6ffbc36df57c21ce80f90b42f1900be051b9edf496198cc65383e5f423a8357e0a",
+        "license": "MIT",
+        "upstream": "https://github.com/chaevsfe/createaddition"
+      },
+      {
+        "name": "Create: Bells & Whistles (Fallen's Dream 26.3 port)",
+        "asset": "BellsAndWhistles-0.4.7-fly-mc26.3.jar",
+        "sha512": "357d1be7b168e7805b3177791b393dbdd9b3955860bf169f1ec2fa03ead02ec96cec1739026332c8fb3a8008362c8adac04232dd3c9588b4120e23ca100dcb5e",
+        "license": "GPL-3.0-or-later",
+        "upstream": "https://github.com/chaevsfe/BellsAndWhistlesMod"
+      },
+      {
+        "name": "Create: Steam 'n' Rails (Fallen's Dream 26.3 port)",
+        "asset": "Steam_Rails-1.7.3.1-fly-mc26.3.jar",
+        "sha512": "f0edd2d4f84cbbc11b87aa1370b86278b864f7570e6e1abc66214900fad4deb66fd964c29fc16be1da41bb2c8698aa18a96c1e5ce00a219307b6ab2d3da9bc45",
+        "license": "LGPL-3.0-only",
+        "upstream": "https://github.com/chaevsfe/Create-Steam-n-Rails-Fly"
+      }
+    ],
+    "source_asset": "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.4b/fallens-dream-0.1.4b-create-addons-source.zip",
+    "client_and_server": true,
+    "in_game_tested": false
   }
 }

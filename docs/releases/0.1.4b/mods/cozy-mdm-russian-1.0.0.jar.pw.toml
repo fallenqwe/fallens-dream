@@ -1,0 +1,8 @@
+name = "cozy-mdm-russian-1.0.0.jar"
+filename = "cozy-mdm-russian-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/cozy-mdm-russian-1.0.0.jar"
+hash-format = "sha512"
+hash = "2e02bd38a5a3cf52c0fa29e75a5c78ec95947ef23da7ee59455852c7a9fb2c7fe7e3ecbb85d008024f73b94e7b75a287827d78f691dc57b7a94637ec87edb488"

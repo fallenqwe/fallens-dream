@@ -1,0 +1,8 @@
+name = "mcw-windows-2.4.2-mc26.3fabric.jar"
+filename = "mcw-windows-2.4.2-mc26.3fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/GIK1xDxr/mcw-windows-2.4.2-mc26.3fabric.jar"
+hash-format = "sha512"
+hash = "ef0c41a83cb57bc3b4cc04147f64a4b0e9646d409bfd8094be770dbe4b57571f37b00450835d4f8dfdcfca976be0ffdc0ccd66e4a7d6d9e87a6d31656fcc90f7"

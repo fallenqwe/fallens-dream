@@ -1,0 +1,8 @@
+name = "Ecologics-NeoFab-26.3-2.7.1.jar"
+filename = "Ecologics-NeoFab-26.3-2.7.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCKpPR0Z/versions/5UofDvyh/Ecologics-NeoFab-26.3-2.7.1.jar"
+hash-format = "sha512"
+hash = "bde3c4479d6167905cacdc9951367c49a8c8d7423c8118eb3c6beabd77b7c2ba37d245d37b686ef9f83a41f8b75779b454d1b61a64022e49ab141841bbe692b5"

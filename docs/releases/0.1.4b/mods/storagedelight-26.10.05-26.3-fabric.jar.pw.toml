@@ -1,0 +1,8 @@
+name = "storagedelight-26.10.05-26.3-fabric.jar"
+filename = "storagedelight-26.10.05-26.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/Dvt58c6k/storagedelight-26.10.05-26.3-fabric.jar"
+hash-format = "sha512"
+hash = "47a79d3361bbf54b420b4af0fe702cad8219af4b99ea6d08f395dc343d83cc5225c11652f0a39926ca4c32d03850bad2b4a97a53aea1212f6510cdb1d1cfeddc"
