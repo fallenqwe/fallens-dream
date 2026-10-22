@@ -1,0 +1,8 @@
+name = "Malt's Wood Paneling"
+filename = "woodpaneling-fabric-1.0.1+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fqk81NlX/versions/IVtHj6IQ/woodpaneling-fabric-1.0.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "a72c40f47b673048cbf6fa76f55d1706fba9743a00e8072c7336067142f72761a0e8579f766c6d76ec61944dde2c8c5d571dfc92df75a508bafebf2da9f86861"

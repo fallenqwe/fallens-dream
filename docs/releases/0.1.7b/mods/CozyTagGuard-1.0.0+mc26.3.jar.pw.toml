@@ -1,0 +1,8 @@
+name = "CozyTagGuard-1.0.0+mc26.3.jar"
+filename = "CozyTagGuard-1.0.0+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/CozyTagGuard-1.0.0+mc26.3.jar"
+hash-format = "sha512"
+hash = "2ab9e32c2ec1be897756d2b7ae5e4c9aca61a68a59994abaf1dddcfa33fefd7768be9dab501597ea51cd7652cd9a172aa593e68a00229d19ca73118956028b5c"

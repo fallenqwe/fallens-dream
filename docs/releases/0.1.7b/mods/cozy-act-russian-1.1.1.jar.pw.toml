@@ -1,0 +1,8 @@
+name = "cozy-act-russian-1.1.1.jar"
+filename = "cozy-act-russian-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1b/cozy-act-russian-1.1.1.jar"
+hash-format = "sha512"
+hash = "ae55820b9e1ffcb591ff22f6f8ffa7b785899a081401d738dd35a56a2ca660d4eeba2290fd5dde5f5a9dfc772d3eaf9431810c56d128c6993e3f69d7be657c41"

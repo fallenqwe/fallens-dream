@@ -1,0 +1,8 @@
+name = "Create: Dynamic Lights (Fallen's Dream 26.3 port)"
+filename = "create-dyn-light-2.0.0+fly-mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/fallenqwe/fallens-dream/releases/download/v0.1.7b/create-dyn-light-2.0.0-fly-mc26.3.jar"
+hash-format = "sha512"
+hash = "11369bce88635aa65c939881348e74622568ebe206830c1e285c55716837a03591fccdb66d8116be42ff941ef97e720aef62bb7735f15308b4342a255c8ba4bf"

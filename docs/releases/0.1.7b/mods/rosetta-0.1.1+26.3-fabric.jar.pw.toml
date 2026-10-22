@@ -1,0 +1,8 @@
+name = "Rosetta"
+filename = "rosetta-0.1.1+26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qn6GGcLH/versions/IGqhLKyF/rosetta-0.1.1%2B26.3-fabric.jar"
+hash-format = "sha512"
+hash = "f486a4da941860a59ea06be8c19a004bf5aa3b468b8de9880df5169ac81c16b01bcc6f24f0890acae772e784c32bd122a3bc6e512836c4e775e62fe4ef97228c"

@@ -1,0 +1,8 @@
+name = "fusion-1.3.16-fabric-mc26.3.jar"
+filename = "fusion-1.3.16-fabric-mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/wRjdAbXf/fusion-1.3.16-fabric-mc26.3.jar"
+hash-format = "sha512"
+hash = "0b1d3e06f9f53fcaa661ae223fa8eb175dd5cbde58bb849c25ac0febbfbe59474d45a957a500f8b0e03f0934afb41c7b570acfdb6c914914db913478f4880518"

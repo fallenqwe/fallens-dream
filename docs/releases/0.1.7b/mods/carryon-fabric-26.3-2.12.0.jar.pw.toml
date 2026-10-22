@@ -1,0 +1,8 @@
+name = "carryon-fabric-26.3-2.12.0.jar"
+filename = "carryon-fabric-26.3-2.12.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/6kJQXHUF/carryon-fabric-26.3-2.12.0.jar"
+hash-format = "sha512"
+hash = "92302e1815fe8b4d41517f001f667a348d4f1e5d0a07d9495b263076cd7a9a30183a0174d4f1a4d6b447161d9d68b08a649f48633583b5955dacd7736d5decc9"
