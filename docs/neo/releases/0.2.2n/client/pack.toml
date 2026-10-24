@@ -1,0 +1,13 @@
+name = "Fallen's Dream NeoForge client"
+author = "Fallen"
+version = "0.2.2n"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40d1c38de2e15cb856d8b48a5037126d28138df39aab1a746735ac7ba3226490"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"
