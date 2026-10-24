@@ -1,0 +1,6 @@
+{
+  "reproducible": true,
+  "java_release": 21,
+  "starter_sha256": "4b534f5f66fbf5ae6e12668322e4eab3454f9e42856bd5f8bbff452faa7756ac",
+  "updater_sha256": "bae23e590077504ddea778bad147ab49970ff89c959b5fc1e6e00b00f692e465"
+}
