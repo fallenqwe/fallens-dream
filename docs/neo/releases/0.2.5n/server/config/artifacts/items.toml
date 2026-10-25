@@ -1,0 +1,22 @@
+# Proposed narrow balance settings for the isolated exploration experiment.
+# Apply on server AND client before launching; upstream fills omitted defaults.
+
+[everlasting_beef]
+generateAsLoot = false
+enabled = false
+dropRate = 0.0
+
+[eternal_steak]
+generateAsLoot = false
+enabled = false
+
+[helium_flamingo]
+generateAsLoot = false
+
+[warp_drive]
+generateAsLoot = false
+
+[rooted_boots]
+# Preserve the farming reward after eating; remove passive hunger generation.
+enabled = false
+growPlantsAfterEating = true
