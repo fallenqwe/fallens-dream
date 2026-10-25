@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "railways:track_hexcasting_edified_narrow"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "railways:blocks/track_hexcasting_edified_narrow",
+  "conditions": [
+    {
+      "condition": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "railways:track_hexcasting_edified_narrow"
+    }
+  ]
+}
