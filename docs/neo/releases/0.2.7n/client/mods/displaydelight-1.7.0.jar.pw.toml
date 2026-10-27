@@ -1,0 +1,8 @@
+name = "Display Delight"
+filename = "displaydelight-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXepZhp8/versions/xiS3GrrW/displaydelight-1.7.0.jar"
+hash-format = "sha512"
+hash = "6409537fe29b483998aff0f24920936ca72c2840f6d7ba887e0da9f303cd4f6a6c88917ea0874fc7180dca6f5beb74d5af5d54be9d383b7e7b12dd667178ffe3"

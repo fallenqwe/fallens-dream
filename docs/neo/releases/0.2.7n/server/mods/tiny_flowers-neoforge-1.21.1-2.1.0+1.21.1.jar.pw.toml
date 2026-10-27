@@ -1,0 +1,8 @@
+name = "Tiny Flowers"
+filename = "tiny_flowers-neoforge-1.21.1-2.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0Lqneqb/versions/WDVl3yUg/tiny_flowers-neoforge-1.21.1-2.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3c8a3763cb531458aae2b56427173f4423bc6fb968fe24c76e2e5021954bd95f551cde30219ea1ecbb5e700412da6d316b9170b7f8139aa3d1408accaa151535"
