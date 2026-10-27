@@ -1,0 +1,1873 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "8904e3056e8f6fad27e0f2bc29e6be181b52101d10753de33cf36c74f4993119"
+preserve = true
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "57cc75f43207bb97a792773b332d76196535040bbade2f6335961fd05b5680c0"
+preserve = true
+
+[[files]]
+file = "mods/BrewinAndChewin-neoforge-4.5.0+1.21.1.jar.pw.toml"
+hash = "21be9a0d27c15c3c0c9b0951a5dd0877f8cc21f2875c6e42fb1efd672959eb66"
+metafile = true
+
+[[files]]
+file = "mods/Carved Wood-neoforge-1.21.1-1.9.8-B.jar.pw.toml"
+hash = "c3d609d4083569a08f6dcb243dc62e6458c239745017c6376d2665578e075d34"
+metafile = true
+
+[[files]]
+file = "mods/CreateDragonsPlus-1.11.9.jar.pw.toml"
+hash = "b84ea3430cd8270c63f0a819167bf2320906949ea1e8a180aede4f6bf6c6577f"
+metafile = true
+
+[[files]]
+file = "mods/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar.pw.toml"
+hash = "9909fd776a8e8b328e08094f355d7c1f243fc70eac82ac6af6e61e71a26100ef"
+metafile = true
+
+[[files]]
+file = "mods/DungeonsArise-1.21.1-2.1.68-release.jar.pw.toml"
+hash = "a46ddb190959d8664a823fa8465c844e4f610f0be042342288925803b1a354d8"
+metafile = true
+
+[[files]]
+file = "mods/FDCompatFixes-0.1.0+mc1.21.1.jar"
+hash = "915e5bb20be56cfcc69b07e72226489cd995ba341b1b29d76ea424db41da0f24"
+
+[[files]]
+file = "mods/FallingTree-1.21.1-1.21.1.11.jar.pw.toml"
+hash = "405313674b16cf34b5fa2ab191047a9a57b4b6995afe58ff6b8fe0e5315ae81f"
+metafile = true
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-1.3.4.jar.pw.toml"
+hash = "fa314c84580a3b0fadb519f10f8e3566dec976d4aaa754ae5043fde2bc3de33c"
+metafile = true
+
+[[files]]
+file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar.pw.toml"
+hash = "79adbb4965e1fc458cd67d998372a4269b0c437d2628a0e806d3945c395e2d19"
+metafile = true
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.6.jar.pw.toml"
+hash = "a9be8bdb2039e4fdecf27da91acb20e2134ec8708ada63d15f5d9f444aa102fd"
+metafile = true
+
+[[files]]
+file = "mods/Lift-n-Load-1.21.1-1.0c.jar.pw.toml"
+hash = "648f68e36a4f9a40175a61f0c9e0730307dc9ce03284aeecee6641129901f8b8"
+metafile = true
+
+[[files]]
+file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar.pw.toml"
+hash = "35fab9b3a5d49eb6749659f9ea55190906a1091e5e9aa9a5a09a70008f09b1e9"
+metafile = true
+
+[[files]]
+file = "mods/SkniroFurniture-1.5.0-1.21.1-NeoForge.jar.pw.toml"
+hash = "04156ac67b5825adf66825311579b58e30a50239498bedb5e898dc94174ef016"
+metafile = true
+
+[[files]]
+file = "mods/Stoneworks-v21.1.0-1.21.1-NeoForge.jar.pw.toml"
+hash = "3b63cac06346d9163968a937e5630ec516f8e9eac8b1f8b76c5c858331b545d3"
+metafile = true
+
+[[files]]
+file = "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar.pw.toml"
+hash = "1ed4650455a5901aae28d31d867ced00e02dc99114b1110877c655a780ee9066"
+metafile = true
+
+[[files]]
+file = "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar.pw.toml"
+hash = "16a7a575b5907f0d430d0577cf7980a29c5cd52fc61b35fe718446b3d7d0b93e"
+metafile = true
+
+[[files]]
+file = "mods/aeroadditionbridge-1.0.0.jar.pw.toml"
+hash = "d968dccccae4ac52ba5c5c82c58d90b11c4d71bc2a46fc32462d927757250c05"
+metafile = true
+
+[[files]]
+file = "mods/artifacts-neoforge-13.2.5.jar.pw.toml"
+hash = "6c089b21fdb5196851e65e06b9cdce3d8a79b8267eaac6415bf99b8d78522386"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger-2.2.3+1.21.1-neoforge.jar.pw.toml"
+hash = "8d932da08d9896791ba5d79af1eefbabbbb52046f56233c13f7550e2d1d9606e"
+metafile = true
+
+[[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.66.jar.pw.toml"
+hash = "ee6771b8491a3796382e3f724050d304a00ea078f10a096087de5eb189e300ca"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles-0.4.7-1.21.1.jar.pw.toml"
+hash = "c2a18f729cd02fd79e8f2f60291cf8453d6404f9ca57d36c6477238949376d70"
+metafile = true
+
+[[files]]
+file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar.pw.toml"
+hash = "735b0668442e6bcbafdb5313b24ccb5b26b5fe00adf292e5256493db426533d4"
+metafile = true
+
+[[files]]
+file = "mods/connector-2.0.0-beta.17+1.21.1-full.jar.pw.toml"
+hash = "8477cb855a472bffbc615f611fab376d3536c740b187ce43ada3f3b481f959b6"
+metafile = true
+
+[[files]]
+file = "mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar.pw.toml"
+hash = "ce5d08bb791dd1cb5cb4e56003a541d34ecec60a49c8ce483f3b17b510728bc2"
+metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar.pw.toml"
+hash = "8a4dd60f0037c5ecf6e113392827d6f5c7f27af9d98a506efb2513df86627590"
+metafile = true
+
+[[files]]
+file = "mods/create-1.21.1-6.0.10.jar.pw.toml"
+hash = "c01ac601108dfffe1f7e15196f4b8d38877c6f3989907a535d27dd18470e53f6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar.pw.toml"
+hash = "5b69abd3403835a5414fe7567831ec78aa6b35aaa35a146119a862879cc6bebe"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar.pw.toml"
+hash = "23032142b5e0243a18895bc0ea6c276ac0ca04f9be982243d11ae7f3d9cb054b"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-2.5.4b.jar.pw.toml"
+hash = "3eb2fc0ff4774603a030433b924535e4904f51e5d7991a4b338ea661c18dede7"
+metafile = true
+
+[[files]]
+file = "mods/create-gunsmithing-1.21.1-1.4.9.jar.pw.toml"
+hash = "91af0e6987935e34d5de1fa3a5a1c70e6e45d6076f46badb1d6bb8ab19512597"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions1.21.1_v2.1.4b.jar.pw.toml"
+hash = "a67a7d90e662a55bd5d7ae72d246a8f5e88642b7a529b9ace8f8c51d420cb534"
+metafile = true
+
+[[files]]
+file = "mods/create_connected-1.3.3-mc1.21.1.jar.pw.toml"
+hash = "5ec58f1999965f374c844c2a0b0e7a98c9eac3c25d9c829f2770d58f40ca6570"
+metafile = true
+
+[[files]]
+file = "mods/create_jetpack-forge-5.2.1.jar.pw.toml"
+hash = "d2c3907398a4f30831bcf0f16cbb3b2691b1bf2e773ffb86fdfaffd8bc0b2111"
+metafile = true
+
+[[files]]
+file = "mods/create_mobile_packages-1.21.1-0.7.8.jar.pw.toml"
+hash = "ec88553b25b6d2661e8cd2ea23230707f75ed67b6a944efa1117e29c8e93847d"
+metafile = true
+
+[[files]]
+file = "mods/create_sophback_compat-1.0.jar.pw.toml"
+hash = "a506d9faad2451c0abd7a514adeed197b11205c8cdafd0929f58fb5d800dc826"
+metafile = true
+
+[[files]]
+file = "mods/create_vibrant_vaults-0.3.2.jar.pw.toml"
+hash = "18356d8c7049b6d882f24ef995eef0d17d4bf1e39d59558044b66ed8b44c5bdb"
+metafile = true
+
+[[files]]
+file = "mods/createaddition-1.7.2.jar.pw.toml"
+hash = "eed57b7ec421800470f565782251fdbed7ef031685abdd3132177e3377b41523"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-2.1.3.jar.pw.toml"
+hash = "afc92ddcb16ee581238ed30f746d68281864e3b3c29762d0f989aa279b9abc31"
+metafile = true
+
+[[files]]
+file = "mods/createdieselgenerators-1.21.1-1.3.15.jar.pw.toml"
+hash = "777265a189907b91fde7a8bb52f53c5c9271f1a6ac70d41513b18fb308ccec6a"
+metafile = true
+
+[[files]]
+file = "mods/createfisheryindustry-5.1.2.jar.pw.toml"
+hash = "6f6c973ac795dfb33cbb40ebbe7bdef9af8a7574002c4049cfd7a397c7073c1f"
+metafile = true
+
+[[files]]
+file = "mods/createfood-neoforge-1.21.1-3.0.0.jar.pw.toml"
+hash = "122755d7c001f0106b49660df1b9eaeafbf27e689405bcd8497074c2faf0a800"
+metafile = true
+
+[[files]]
+file = "mods/createliquidfuel-3.0.0-1.21.1.jar.pw.toml"
+hash = "b6074d3c4cc422384fc35ddf3a800b60db1b93ef1cca00f0578eff42170945e9"
+metafile = true
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.jar.pw.toml"
+hash = "2cc190d77e1f3f9f778dd7f4ddfe8c27cd649d6d655b71b65e5cbd30e3f2a136"
+metafile = true
+
+[[files]]
+file = "mods/delightfulcreators-1.2.1.jar.pw.toml"
+hash = "b060bacbcbbc12f4600ed20e3a005c397608134d93686a557488c54dbcae4b51"
+metafile = true
+
+[[files]]
+file = "mods/displaydelight-1.7.0.jar.pw.toml"
+hash = "61c1375b36dc6ad8d37fcddaf5d6263da1cf0a5b59d1b8ecdd18efe3344b5c95"
+metafile = true
+
+[[files]]
+file = "mods/ecologics-1.21.1-2.3.7.jar.pw.toml"
+hash = "1146e5b131e9fb60b504017e06ae4570c9c871be355af781eee51ebe247e6f6b"
+metafile = true
+
+[[files]]
+file = "mods/exposure-neoforge-1.21.1-1.9.19.jar.pw.toml"
+hash = "c2f4e0fa97c5e7ce7e9bec705bded4cf949f473eab1cf644344684f28523b993"
+metafile = true
+
+[[files]]
+file = "mods/exposure_polaroid-neoforge-1.21.1-1.1.6.jar.pw.toml"
+hash = "3695ae06b949c1bea22c21ec27e0bfbb15c390c61297112b3dab1f446ad43391"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7.0.3-neoforge.jar.pw.toml"
+hash = "99f044a1fd39009aac4116914a1a273cd5cd657316ae65a5b0e33e377d3ff0a3"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar.pw.toml"
+hash = "d5d30dfff4243d115e82751980c43e9e3f56e1f5c664b02f7d47710f2acf1a3d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.9.3.jar.pw.toml"
+hash = "85ff7dd0c46f6ba45fa0e4a8454fdad95e1a1db34877f658d2c1817470d88ffc"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks-neoforge-1.21.1-21.0.6.jar.pw.toml"
+hash = "791a95895ad195ab392d900f1a0e94b5fd1f49226846cc67ef772ee1f154d019"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-neoforge-1.21.1-1.0.40.jar.pw.toml"
+hash = "740eafa6460b669c819f2d82e864bb0059c439da5d6b2445a1d54af0bd19b51c"
+metafile = true
+
+[[files]]
+file = "mods/gravestone_sable_compat-1.0.0.jar.pw.toml"
+hash = "68f0d8cb9ca671536cc3cfc23158d3220bc88dd297d02cc44647032509abdcee"
+metafile = true
+
+[[files]]
+file = "mods/interiors-1.21.1-neoforge-0.6.1.jar.pw.toml"
+hash = "203370d1355b96c05c4642a0b67a622415f296bbcdeb992d9a19a9e7b567f401"
+metafile = true
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.32.0.359.jar.pw.toml"
+hash = "a203258d7c6543a2072bf7fdc26d6af2df6e8b04a1be813ff80e971773dc3d48"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.jar.pw.toml"
+hash = "9cec697e4346bea6fc2a8e8c114a4f8a2031796a2e0e142940ab3d0abc247397"
+metafile = true
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar.pw.toml"
+hash = "86e6eb72b9bd837ab18daa263729e929863b00b540a17b75c17da5a4dae860a3"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched-1.8.1-neoforge-21.1.jar.pw.toml"
+hash = "50f294d096bf55ce16413744f923e791dfffdb7ddefd5f070c73d3af14351435"
+metafile = true
+
+[[files]]
+file = "mods/lootr-neoforge-1.21.1-1.11.38.127.jar.pw.toml"
+hash = "4c763f91f2185f53538d27c3d558afdccd1778367045fa97a5e98da843510655"
+metafile = true
+
+[[files]]
+file = "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar.pw.toml"
+hash = "a56e22267b2822f8f1d886563d18c8939538a7a433b4ba45fec24c132e691429"
+metafile = true
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar.pw.toml"
+hash = "04da414db976c28612eef10442745ec6cff729df0bb6d355052941519960a2a9"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar.pw.toml"
+hash = "d0e1fb69dd22994d4e31fa4effc827bb7441ea86c6d3041c79b846dec26ddb55"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar.pw.toml"
+hash = "7915cfad4aa7551e9459edc0dee49c94dd4d8a221052ce708ca13e530a1b45ff"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar.pw.toml"
+hash = "5acd12a26bc921bb9d86bb58855ce69485102a89ecd6029313238b6b0fa7179c"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar.pw.toml"
+hash = "52c08f9615d2f2405927489a22bb4725caabfbf8af6b6dd2db8057e46beb5799"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar.pw.toml"
+hash = "8ce9e2798f3e3605a888a792bca3ab49460450ed45d05ee6fd067b410dd77385"
+metafile = true
+
+[[files]]
+file = "mods/mdm-3.0.3-neoforge-1.21.1.jar.pw.toml"
+hash = "7e011575403b220bf4d29830c47ccc80a564a670b73de16ac3d75c896d73c3e1"
+metafile = true
+
+[[files]]
+file = "mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar.pw.toml"
+hash = "6ea65b745ac3a7bef05495b375858a0f2abdc1f4c752d3d4f39e242ed7897ac8"
+metafile = true
+
+[[files]]
+file = "mods/moderndeco-4.0.2-neoforge-1.21.1.jar.pw.toml"
+hash = "0220532a9e3be4caf8b976be5888cabdfb4d2835046f64bbe86492bb5ab10e11"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar.pw.toml"
+hash = "aa26be936613558d24f5d42d1b3c85c67eea620adfd816de723255ef7c9ddaed"
+metafile = true
+
+[[files]]
+file = "mods/music-disc-maker.pw.toml"
+hash = "bf4c7e366a515b077b532b8be5b51ae8c656b8607c03fa6f700e06730967556c"
+metafile = true
+
+[[files]]
+file = "mods/ntgl-1.21.1-3.2.0.jar.pw.toml"
+hash = "04706db09b8599162d841b63638b2a06e6226f2d590235a2a1f89a1b7a776ef6"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar.pw.toml"
+hash = "75cde8eb1ad6d346df66fb262ad696b89227855a7a6211a192f694a02a443ad0"
+metafile = true
+
+[[files]]
+file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar.pw.toml"
+hash = "995a732193500e28716e05f533ea71da42c6a040bc4c8af473718e89f42d97d1"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-1.2.6-neoforge-mc1.21.jar.pw.toml"
+hash = "34da914f2fdba52105a029104b00cf21bfec81544a21d48e152b87d72c41b9c7"
+metafile = true
+
+[[files]]
+file = "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar.pw.toml"
+hash = "dad8538a73deb2b303cafe694671b0bd71c6f3ac4c1981c8b70f58890ea8d462"
+metafile = true
+
+[[files]]
+file = "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar.pw.toml"
+hash = "1e81bfea60a76af20a6d303b6360ab643de9458531dc4a4a09451727d27db1b5"
+metafile = true
+
+[[files]]
+file = "mods/rusticdelight-neoforge-1.21-1.7.1.jar.pw.toml"
+hash = "31c929ec3b05564b16208be1be9aa337826e2475ee528b3311342fc2cd120bc2"
+metafile = true
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.6.jar.pw.toml"
+hash = "53795be4070577ea9b20dd2815365cc5d2f88beb5a7914478207503a88505b54"
+metafile = true
+
+[[files]]
+file = "mods/sable_sa_compat-1.0.4.jar.pw.toml"
+hash = "79d46f91b117e7c338cd67b75a1b0854631e79d05a0f383cb8171fdbcd962cf4"
+metafile = true
+
+[[files]]
+file = "mods/servercore-neoforge-1.5.19+1.21.1.jar.pw.toml"
+hash = "7972104e202d304bd0a7c9293c14ba83ab2bab5a803ca725286715418f68c5ad"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer-2.11.0+1.21-neoforge.jar.pw.toml"
+hash = "da4c6648d3b02afd268915db8b88f35cb98b63f627b489fa545e624ddbe2e009"
+metafile = true
+
+[[files]]
+file = "mods/sliceanddice-4.3.4-neoforge.jar.pw.toml"
+hash = "09a47c216f417702207395f2ab3fd282790ed0ecf2b347c1af5b6a5d1a92465c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.26.14.2222.jar.pw.toml"
+hash = "e18046ff2287c05c44183ee696aeeb5b2bf51a5a9cf9f37522c0dc894d4f63b7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.5.17.2426.jar.pw.toml"
+hash = "de12d3e35abfd25ef45c29d23bd6fc80f9cc00dc8e08f1122d888c17cdc6393f"
+metafile = true
+
+[[files]]
+file = "mods/storagedelight-26.09.17-1.21-neoforge.jar.pw.toml"
+hash = "c113391945b00dfa7d3a1f659242bd0efd75825107c5bae84931019224dbb9d2"
+metafile = true
+
+[[files]]
+file = "mods/structure_layout_optimizer-neoforge-1.0.12.jar.pw.toml"
+hash = "afc0f5c4f30426cc271825d9c92c4dee140ab4d5660a619d9a3f000a79d840f1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar.pw.toml"
+hash = "89f0a9e0ac9b99145e8cddd11abae42655ddd723cd193f436feb20a8ae1e2178"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar.pw.toml"
+hash = "955e3873b5a3f0051f7251c0c9522931f44aaa529d2db5d063bfbcacffd372a5"
+metafile = true
+
+[[files]]
+file = "mods/tiny_flowers-neoforge-1.21.1-2.1.0+1.21.1.jar.pw.toml"
+hash = "4dccf7bc987239ab1a45abdf1f544839c562485764e4340125e0abb58bd61d60"
+metafile = true
+
+[[files]]
+file = "mods/tracks_plus-1.0.6b7.jar.pw.toml"
+hash = "b34f7ef0f06ea9f3c746b271172192b98bca4038092c3ad99ae449b88e8821a9"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack-neoforge-1.21.1-10.1.40.jar.pw.toml"
+hash = "8041fc3ca90ecfcb74908a31b56cb1b2d329816056a3f034123e49b2f8fe1021"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.25.jar.pw.toml"
+hash = "5ac6388990beab7bb0afd8f4d7a7a6d53faae9da0fddee218cb4d339c94104c3"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise-1.0.13+1.21.1+neoforge.jar.pw.toml"
+hash = "1c17fb561bbdf9635a9f63fdd0aa9cd22b1fe35fe90afd2bf132c73e31f892da"
+metafile = true
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/bellsandwhistles/recipe/metro/metro_window.json"
+hash = "1fb70fd1aa18f963d2eb8de354eaf68215cb31e1134769574af12d6d79c7f413"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/copycats/physics_block_properties/copycat_catwalk.json"
+hash = "d77245a574079f2d15b8e1b176af251c146ba745b686b28d3062e746337f3e28"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_amber_fan_dyeing_catalyst.json"
+hash = "f7813eb5ac13bffd0fed554220b438fc351b8a97fa1ed13bd8fb0d3fff1ff93c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_aqua_fan_dyeing_catalyst.json"
+hash = "ab2f5ca5eaa3ae6a4f3d456f55b657107faa86ef78a65d3fd3ca83bdb7899137"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_beige_fan_dyeing_catalyst.json"
+hash = "083a13c591e3c7eb27f06dd6f8c87e2872a2ba718683f32afeeb2eb915d4cf6d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_coral_fan_dyeing_catalyst.json"
+hash = "4c8db7f686fc3c4f3ba9427b8f1c3c32d2ca931dcd0709a7d5b3f494d85a21ba"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_forest_fan_dyeing_catalyst.json"
+hash = "05fb96763d24c29bc6ffe7e2a3a321e7612b7b97586807ad50a9dc9206bce12b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_ginger_fan_dyeing_catalyst.json"
+hash = "e90a86eb9f159637df5cab7474a6c7c69665cd8ce2b7fc90cba698367b7732f7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_indigo_fan_dyeing_catalyst.json"
+hash = "6590f60a1f38d37205c33f5874ef6227b5e7d00b51f8933f62bbd4cf2fe23eb9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_maroon_fan_dyeing_catalyst.json"
+hash = "1710cd9f58d5fa954f2684c60eb241ff78b275c7d4d2e0f2486e9e139c474590"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_mint_fan_dyeing_catalyst.json"
+hash = "4ed45daa7efc937c4bc2ebe108d7fdf9df766f6cf9aa92fca4876383128bae4e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_navy_fan_dyeing_catalyst.json"
+hash = "06d28867b2ded89e0dd7c7912bc2d1741926b8876e776f59e3d67d6c9277a977"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_olive_fan_dyeing_catalyst.json"
+hash = "8a9eee05ec3aa1f9d7a6bc0a83a62b1d9d6d03c961ddb508a1b7768985612833"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_rose_fan_dyeing_catalyst.json"
+hash = "b2e374d1f93b98cb4eb6b5044f81b1b0feb12f5d56c095f23f9af836a2392529"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_slate_fan_dyeing_catalyst.json"
+hash = "e62daaf68b5080c6433e2504594a2df582004e27f5959fcfc219712d8f3085c6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_tan_fan_dyeing_catalyst.json"
+hash = "b61b32ad374bd50f26295dc2efd38feba7a4dead81c4b1f80406e52034db345a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_teal_fan_dyeing_catalyst.json"
+hash = "51365a29000ea0755e58cd1af9193bf076abb158db5b2a033dc188196ae26af2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/create_connected/loot_table/blocks/dye_depot_verdant_fan_dyeing_catalyst.json"
+hash = "6fde4172006e936b4ef953b175761423b2cfa872bb3d2722007b8cc25ba10bcf"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/createdeco/recipe/placard.json"
+hash = "9a056a9148eb9c42a5afe9d436370b40ec37a8efb46be18e7fb87f031b717454"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/createdieselgenerators/loot_table/blocks/andesite_girder_strut.json"
+hash = "058d1a8a234d9fb884c3226526947d6a73cee29808001c53ea49928f8f513706"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/createfood/recipe/brewinandchewin/fermenting/vinegar_from_fermenting.json"
+hash = "43b4e89f257f76ba12e5f0e6528aca156093cc93b833c549c784bdd5d2143de4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/createfood/recipe/create/compacting/compat/rusticdelight/syrup_cookie_from_compacting_heated.json"
+hash = "02a13fa541682ed74c89a3e2b63f123fc34a71230843b40cfbb073b5de227991"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/delightfulcreators/recipe/cooking_fallback/culturaldelights/cooking/eggplant_parmesan_block.json"
+hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/delightfulcreators/recipe/cooking_fallback/culturaldelights/cooking/poached_eggplants.json"
+hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "9b21c8dd152101e23c83332d37634e1488a0e703efc06bac9f310b8cf799dede"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_0.json"
+hash = "ebc7d66c72afcd2b8c85e33e9aa553627742da45de516526dc972fe49e895a17"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_1.json"
+hash = "49d9e0515ab5025f5c484c30af7ab42e590eeec60d45eadb3a273eb20af3d3bc"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_2.json"
+hash = "a45ade4343ce953ef25bf3cbdefbbf92a423e38e10a6afa7094e015b26dce707"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_3.json"
+hash = "f0dcd3b44fcc73765e2eb3345f25362f34ca648877d2aa905997349c2803d410"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_4.json"
+hash = "55cca81d3a1158df764bcf73e45bf073aa451a6efa7be072dc4e9c2a9131f414"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fallens_exploration/loot_modifiers/treasure_5.json"
+hash = "ae61455f40f243be25e1be97302b449b4f5a9611ec0c49afa150c355bc131bb0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/fd_server_fixes/tags/block/copycat_catwalk_if_registered.json"
+hash = "600591e70a5a5e6c4984972f0da134e0210fa5234405ffef7203c26856910573"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/black_chair_from_other_chair.json"
+hash = "903e35f7c07be885fa3069e89e6f3d81d7bc912f14deeb290e7891670b1a79ff"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/blue_chair_from_other_chair.json"
+hash = "ccb61358f2dfe566220d10f27718e02ea593bfa4355e425b99ab81fd58361ea6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/brown_chair_from_other_chair.json"
+hash = "e54ac4ffbd81c8a6602407f8dfdbfa2e60f0caf3987fa86e4825b218a650adf3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/cyan_chair_from_other_chair.json"
+hash = "aed4ba03f58ed4829ecf82fe52ffa8e05e87bfc232cdaa2033f49c846147c17e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/gray_chair_from_other_chair.json"
+hash = "3978575ba0c8bc973cc42df8cc9d71ef6a278b60f5b8080f66bb7151b12b6412"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/green_chair_from_other_chair.json"
+hash = "cd7be56c59f759d6e56eba19e94d85f2ecb0aec61c36c9d488d7aa853c816650"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/light_blue_chair_from_other_chair.json"
+hash = "a1575166943dce9f5569da4fa5315503d7c29dff6247474277ae3bd792cad486"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/light_gray_chair_from_other_chair.json"
+hash = "2c0af742c0e3ac7e9407eb9f8c0c114985569bfcb761e8cd29c00ffa78bcd53a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/lime_chair_from_other_chair.json"
+hash = "616ea61ef5ccd6f7689832f0b8861fb515dd245d7b5a9baf3b54a4bc994fae53"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/magenta_chair_from_other_chair.json"
+hash = "1195afe40240a02a58f45a7e9f6927ddc1fd1b555221bfce05821a114560219f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/orange_chair_from_other_chair.json"
+hash = "45cea359ad871cb62b432925ce43967666ca03a54aaf38312abcb6926f07d466"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/pink_chair_from_other_chair.json"
+hash = "fcdb9494c13f96e83363920a872fc75f406a3771f81d9295dbd05d6788ebe535"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/purple_chair_from_other_chair.json"
+hash = "c6f28978a8059854dc51438afc0f453ca2e9f8092c891974971d7ccac32e7579"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/red_chair_from_other_chair.json"
+hash = "d3663b3305574ae0cbb7372bff942300ca08998cb5dbbb6d452d0bcecf194cbc"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/white_chair_from_other_chair.json"
+hash = "964979be261f429b1659a1a2a0be79949f67982370be848128ac0c241d95e697"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/chair/yellow_chair_from_other_chair.json"
+hash = "47ffa4468a7609986e5e661cf95358cc9c7733eea531ecb664cf65c9ca7e9a5b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/black_floor_chair_from_other_floor_chair.json"
+hash = "db97a0d35162ba1cf97bdacc36539469cf0a766bddb7dce9de2fe4dcf75af6c0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/blue_floor_chair_from_other_floor_chair.json"
+hash = "db51d1e5e02084a2f3acf9d77bc332c7f26f9e4f66a00b28c443d4369dec4d9c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/brown_floor_chair_from_other_floor_chair.json"
+hash = "8ebbaffb229c1e8a2b01f88df76b38250134eab09a5f8eff8d957db5a4ed0b51"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair.json"
+hash = "381a29c65bd98072647281179f1c384bf9714a655650df5ba6c3b1b96ffdf19b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/gray_floor_chair_from_other_floor_chair.json"
+hash = "006f513dc4640493dbf0aef079929254bc5fcaef2abcfe542b166d33f22efd13"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/green_floor_chair_from_other_floor_chair.json"
+hash = "6fb7ebcb3ec85dea8852a735c9520a5fab264707e7f4c1e3b0e69e9f85c1bf7b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair.json"
+hash = "8426c2d3defd58f280bb606578f1bf9628df292a3916f7999b9018318cd73319"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair.json"
+hash = "6c4ba12b1d8ee051f460742994763d73eb41256995eb618eb0850edacc70c5fd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/lime_floor_chair_from_other_floor_chair.json"
+hash = "7392b5b941c25ea005d0db5cac996dbde00d90757ced42852cf9391aa2458945"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair.json"
+hash = "328323edf171a373032117176f107aff9ef130bf9c2c8e9b1497b96261d7af15"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/orange_floor_chair_from_other_floor_chair.json"
+hash = "52c27a4e49a24bc08326a5c23ae5cdc434adb818cd8aad07cfcbb49ea5c9543e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/pink_floor_chair_from_other_floor_chair.json"
+hash = "15959532154823d16478a93410f13000c47e99220588f72753cc0fe2425d89b2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/purple_floor_chair_from_other_floor_chair.json"
+hash = "61afefda39207aea85298d4ff523a5bef20ce7736ddd7805ba0a0aba282e6840"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/red_floor_chair_from_other_floor_chair.json"
+hash = "20a458560155162c1106d9e9f67617c42ed96a35a5afb4cfce7508364c9894ce"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/white_floor_chair_from_other_floor_chair.json"
+hash = "de0e76d1b896a3a6190eebd8028a58ce7032ed1882c7b99d36d155fc436af800"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/interiors/recipe/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair.json"
+hash = "73e161ac29542dc83dd9557cf8186532dfef1b8f83daa743778e6fa9695a20dd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/moderndeco/recipe/devicespcbudget.json"
+hash = "2491c7865702559e1294c6199fb1451f4c1efab3fede7748566cab40b37ca585"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/moderndeco/recipe/devicespcgaming.json"
+hash = "513375fed3b15aa90ed8a1d47211c89eec3684848903a2669bd4f1a9b7f776d3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/moderndeco/recipe/devicespcgamingwhite.json"
+hash = "0312350cfe19ba0c93ca511923a9ac7895388aca6f4d8e3593553186d75f8db8"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/moderndeco/recipe/devicespcmodern.json"
+hash = "d1270c1d066f4d3ce4b259d853cc5ca37a844408ce93b6b3ce3ebd6998d70675"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/moderndeco/recipe/nuke.json"
+hash = "f9f205858479a1191c03aea6a2fcc6d6929b8f1109133092c0e6889a51b486fe"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/neoforge/loot_modifiers/global_loot_modifiers.json"
+hash = "d5b091b7c6d19015ab295067fae25cb4e33a2a849600a6680df71cde29dabc2f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_dead.json"
+hash = "4790d73eb589601dbacd9cde6d7aaa80e14c0b9b1d2e188df0aee18580222ac0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_dead_narrow.json"
+hash = "a53dc82ee81ca4b282f79ad9b93171369d919749b40043668b579a6a0b9c1dba"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_dead_wide.json"
+hash = "46cfa4b423b709b2d100c6422fb91656ddb7a49b927585beea5ce66849c05514"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_fir.json"
+hash = "ed1dcde9f8914f09efae5e96fe1822799dff0ef49b7266d7834aaae9f0b709d9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_fir_narrow.json"
+hash = "e825a771752b94a9a4aacc4343d967618713669d83aa80eb0d5a97fd5a3dc473"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_fir_wide.json"
+hash = "57fbb5e336d542c666a351c3a3b15492b8f2c0b703f66cfe3eb9b6768f3877ab"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_hellbark.json"
+hash = "ca5efc79cf48b51bf5057471cc5a31d0a610e120536e8700afedd4745cb1c8fd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_hellbark_narrow.json"
+hash = "508f1227be268f0836608432e902bf73adddc9337f2a969ca43b7b26030c0d3d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_hellbark_wide.json"
+hash = "086c698c40c260cacb11299b1e1b966bc60c82fa31eac59c7650e138b8ff1fcc"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_jacaranda.json"
+hash = "05b7491155f9c3de31bd7ef87396238582510ad797ef0ff6281712890ef5410a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_jacaranda_narrow.json"
+hash = "fec3db8a10fe292edf6645a7a7e071f2b596971618f1d127b845655fb4a3e516"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_jacaranda_wide.json"
+hash = "1b502320f1440561f8566a3f561a534d731c0a54530278f05926d7981df37813"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_magic.json"
+hash = "282a301114fc90400396f03e19d7c3fdff61103327f57ef184f92647e6adc40f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_magic_narrow.json"
+hash = "2bbc7ad120a9f7fa3506649b9f1606a60734d72da570b1f599f8969f91d7dc21"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_magic_wide.json"
+hash = "838da7de558a84dd066d761610441bac63d1adc07402b564dcffede2887e31d1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_mahogany.json"
+hash = "30393c4cde4477f75806719a1e9346bd7f5d82e1f09193129f68fcd5df710765"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_mahogany_narrow.json"
+hash = "c1036b3c7ea942a6d8cb30c273c3ed6e709856ca44c2c788c559be013f9ce179"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_mahogany_wide.json"
+hash = "d4f5265714490bedf6965da00a7a4c766512fe16283b3ab6c85f25d708a7ace4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_palm.json"
+hash = "4b080778852a9385016b3579398e629b15ab001da90bd173f5c3ef6e3c5c4833"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_palm_narrow.json"
+hash = "203afe0fdc5a69b4a4cc1faeef3473575466a4088386377a89700fa918482ef0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_palm_wide.json"
+hash = "10f37e979e6cde96695ad8bb9329aafd273a3e91d342b38be59ea1b7abaf4f72"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_redwood.json"
+hash = "86ed6a2bb3c40fb0dc97cab7bcf29c93796f059003b8118923222d5fadb93cd7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_redwood_narrow.json"
+hash = "eb1e37978cb5a3e32fc86baf2da8e856228ec92ca9c3c53053402710b82cc23b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_redwood_wide.json"
+hash = "b4ca405e28f070de93973ea5a854cabd307c640f0a4815a0b4ab180a962d9882"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_umbran.json"
+hash = "a93f1cb941d6272aad3c32cf3b5e7009f2954b02d04058f8279186b090a9d3d1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_umbran_narrow.json"
+hash = "533a583d999f0248ca6137908baf9127055dbace401d122cf84b91677b0e0d2b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_umbran_wide.json"
+hash = "13a6050ff8b1a7d6b83ea295de1643e364f0b2e490a6e9d53b686469c8c02221"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_willow.json"
+hash = "427bd7340fb948f906a2a1f279d89d25b4e77914b306ade65900e484523ef900"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_willow_narrow.json"
+hash = "1c02c0eecd0a559d3ca72e48400e815ddf82b72cad4b5d2539a9f0e54c1d6312"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_biomesoplenty_willow_wide.json"
+hash = "bae42aa8048f9946bfdaa194e9c6381bf7663894c9bd13d4508204b80a7231f6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_bluebright.json"
+hash = "e00bbddf006acf8dfd4ab429c83989f2759f52318d20f11b872119a841b92ce7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_bluebright_narrow.json"
+hash = "cea984dfaf7cff0a3280789334ca937c2cb9a8aed75afe15c18d3462f22665fd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_bluebright_wide.json"
+hash = "a21dec64f55f5b3433f6ca6078e13fef5b114c7dc73777d88159fcbbce995867"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_dusk.json"
+hash = "3de1f20644f9fb128cf2b184563d4f4a43552d324700e0868655c70ba1973d08"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_dusk_narrow.json"
+hash = "4b85d26e92d04a504c1bc825acb889d4e81a6f96d7494844a44d516ef4eff506"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_dusk_wide.json"
+hash = "64c31726bf4245ba3a30e57e90b1b948477527a220fee18e33a515184f21db76"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_frostbright.json"
+hash = "1b572e3352bed0470f3e4d1b6c24aa344a550fc2b55d54276691fec8fbc66090"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_frostbright_narrow.json"
+hash = "954a4c49234cc2a9e9ee3dc2d8eda7afc8658abe03e8bd2bdf960d4a9f030012"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_frostbright_wide.json"
+hash = "0cff9f024defb0b252ce65c02c46187be6ce83122828b4bd554508480632aec0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_lunar.json"
+hash = "d854cf9c91bad32630b9995e13c30b8ea9a3b1740ecac4546dc675e92377116c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_lunar_narrow.json"
+hash = "cf5c6c4e0b8e3845c381b57a8a5577e5cd548c72eb06880d6cd14fc98c735161"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_lunar_wide.json"
+hash = "44a5cbc51ce565ccc09bd246fd0e3e05fd9e84eb10c1d47fa9407252061855d7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_maple.json"
+hash = "d85bf04b50e267e6797b9e0ae3bc2c8bf39a0bb1621472638379184904e27ed4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_maple_narrow.json"
+hash = "f1d3e3718e7629a327b8890fa88f58857dd1b9af34d4a354d8319b573c70cf30"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_maple_wide.json"
+hash = "1b2c41be4624c173cb9a7ba987a1dd609dbdc2ad0c9a1fe2fe6ac92627df7001"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_starlit.json"
+hash = "35b1a2839061ac48adbe0b0da964cf9a73abe0598195a03fd8f020eb06ab46d5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_starlit_narrow.json"
+hash = "c2e4b1827667f93879a562de194c0f039056ab069e553dc0f07fa80dd021440c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_blue_skies_starlit_wide.json"
+hash = "4a39797d7a91767de8bf0a031ebc936d357e1a3cceb8a4aace920033c1e38b51"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_aspen.json"
+hash = "7cf3c5a38f630f2fcbed633f2a9df9010a6150792213a8a55c73fa454d6dae50"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_aspen_narrow.json"
+hash = "de7d1fcd7c1c1f4b41f73afb7d878a8bb892385d9fa1f0ec8ba3b7b591e9edb1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_aspen_wide.json"
+hash = "69cdbef36efdd95cb777f2ae63d296790c828edc67eddbad996b0400b163a46c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_baobab.json"
+hash = "9befcd1e4abe0f7fb7f46b597755a468a5e33d4a7af0862f16fae41d2ef54b69"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_baobab_narrow.json"
+hash = "3f4352c296e1c07041ba75e6bcf7db374522cae407b169042c28c504bcaa6700"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_baobab_wide.json"
+hash = "dfe7a02a93b3752d26f4ee2f2ec04a27ff1863375785344721dceab59589a318"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_blue_enchanted.json"
+hash = "3a2e87bd848defaf4bd6c2e10db0f8dd72833b2bd8c1d0b850d6e273f3286cb2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_blue_enchanted_narrow.json"
+hash = "b67c57a84121e29432b21352a7600f088eeb55490a4b7ef5f11a4561973004f5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_blue_enchanted_wide.json"
+hash = "e5e0f81e196b8ed99f26d7643616bed67b759040d61e69a20dc426900e38d15c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_bulbis.json"
+hash = "6740b0ea22a9d61e7607094967bbf0c28d96dcf9eab2f7654351123ae6b688c0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_bulbis_narrow.json"
+hash = "ea5f973976ff4458e0a0aa9b83e423fa67e8fd2208e83ce1fdc387eb01fbbb72"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_bulbis_wide.json"
+hash = "45b2cb1fd53702039772fc87e5fd07a2152e76f3c15bc5ab8f4523ee58515131"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cika.json"
+hash = "15ce7503b3979cf201ca552ea053addc49fe2ed524b589fd3c3a260880cc60fe"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cika_narrow.json"
+hash = "61141340810edac17d0b71e472dffdbbffb81b05553d0a07a09b799a6b3844f4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cika_wide.json"
+hash = "2490b684ff5edf610a7f73cb917c1bf27d188bae64af7aa7ce9247b8368e942a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cypress.json"
+hash = "0df084f374ddef33582c3c46551cececfd88abd86cfa220977266c7ab63b8d88"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cypress_narrow.json"
+hash = "9e7362c22ba492b9eeb412f2955faa8c4e37dc78ca13d29e3c902eeb4bebf288"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_cypress_wide.json"
+hash = "d18107a364e0e3e51e03e3ea1dec87505f53be7d3b1993ad9061db22743492d2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ebony.json"
+hash = "886ce81ea45488be40d9656e609b90f22c91517044b1e1ca8a822ca77c739cf1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ebony_narrow.json"
+hash = "5fbe0909d97952a7178f98aad5ae3eeed2fbd2e4c825c6e7aeac68d7a2f24071"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ebony_wide.json"
+hash = "e7ba5f4545fc72cd8e5194f6c9dce63120f70618cb9590b218fec2b86855464d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_embur.json"
+hash = "7459bdf875f2934513163d3487c1aa68d95f3c108d8c622058fdaab308d8dd91"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_embur_narrow.json"
+hash = "3444cc01730f66e7a10809019dc03c00197e97c3a312c0e7ebef62e036795750"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_embur_wide.json"
+hash = "60c675ae2c0a831225b14fb045eb93a943353ae72734108323f56a04e79a9e53"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ether.json"
+hash = "62a1a2ac1ec387d25125707cd530f6daeddfd4db8f4023e52aef780e6424b912"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ether_narrow.json"
+hash = "172c360f9c106b8b39701c369f0c5380ab66916f31312d40dd8ee787442d6019"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_ether_wide.json"
+hash = "a84cfd7891acec98a2db4ae2e1ffbc0cde30b2d8aa465fa24279d83aa1f0a905"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_fir.json"
+hash = "da2248598ad4ff9d109d46a03a8f6d062cdf76d4403cb67275c26537ee7b111d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_fir_narrow.json"
+hash = "058d740e4119d81a27e5864dc7469ce69905d345ce2d564415f985017d7b2639"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_fir_wide.json"
+hash = "925eb7d4f0aa65d8a40a35bdb198efbc1022c4a234f84447f28d94da046fdc52"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_green_enchanted.json"
+hash = "5322772bee93cde9da205398a879a7b2cc4a18c7d4284dfdf2a1e55d0d69b41f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_green_enchanted_narrow.json"
+hash = "023dec3a40072727d99c29798aaf5391ffe137a89682f2a0222eb238eb65c74c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_green_enchanted_wide.json"
+hash = "eabadb204591a3122cdcb85675521d5eb83a69f3a6bbffdc1aef9ebb040e6c8e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_holly.json"
+hash = "17a1de4a93392382ac3c671ac8ce4913311a347b34763e861c94b6a060d2bfae"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_holly_narrow.json"
+hash = "076ce9a1d59db25bbd1a4fafd6f4d87e5f83b3fd1702fd35ac8838880c17b06d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_holly_wide.json"
+hash = "260d5d8cd20c24c88903802ef3bae79f614a06467f4e33840da424e5b24d4ecd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_imparius.json"
+hash = "fb39cdb54cea7ae83e55f8030971c4f76371c64670cc843c9ebc202b62c0131a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_imparius_narrow.json"
+hash = "e623336aa728b27478eb41a2b7ed4afda056748e79d8cc502735b06a20c4b281"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_imparius_wide.json"
+hash = "27b346260b350a957d54623cba8133a0870e4f6912ad2a065aa6cd6cfb1eed23"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_jacaranda.json"
+hash = "922c1b2460182a74c780e8911a42e268171c76db8558ee5bcab7f527b3ac6bf2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_jacaranda_narrow.json"
+hash = "987cefeb604ce8a4ea06182a9670b6730b19a43746909429de39f8bcbc0dcb98"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_jacaranda_wide.json"
+hash = "5082bc7f33eb68dcf9a5ea10a4053d0d33ec380407e1b1e90a7ea0492ab46511"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_lament.json"
+hash = "58d84a16fa6ce328f5c613a01a5fa32e73cbcf163724c0f7155d319734497128"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_lament_narrow.json"
+hash = "da153a27ccc86db81ac378dd6a0e715990d27adcd7ae0af11b24266863c4a4e8"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_lament_wide.json"
+hash = "dca4feed13edd7ed6147afe913739f3a4e486d41e63e60fd4b2c1ade02acacdf"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_mahogany.json"
+hash = "1b3ecd77dd0c6960a438eaeed0ca0ec73caab6cda606014e665d263d44ce67eb"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_mahogany_narrow.json"
+hash = "a1eff3e04a9cb3e71415c4611bca917724bcc6934bf59883d3c8e4ae373d1132"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_mahogany_wide.json"
+hash = "7da5b15f3a1fe4faca1a5b46581235db8ce7568c40d96d655a5522d6a629c674"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_maple.json"
+hash = "827dd01b134c2786385a2adcb2567c513ce0c4fb135abf958ae3ba7f35cc7f48"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_maple_narrow.json"
+hash = "a2804f4fae1ec0cfa1322511ae561f39c55b55d13f64c035d265eefde03871a9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_maple_wide.json"
+hash = "9c64ab294806a871a9569409d164e380efdfe8a5c7ff92ba2668993fe34c1cac"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_nightshade.json"
+hash = "c18524d1ae5bc64c80afe521aba2a0e3934201d32aa0656bc47d6f20e1437159"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_nightshade_narrow.json"
+hash = "f1d5ea089a85cc0a6dfdb1a2f3d2b1db8e2e3d41fc52b53048ecf52e13bff272"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_nightshade_wide.json"
+hash = "5550c0155e53805c974b5933dc491d2fc6b0f24c646888852dc5fc0c7e830fd1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_palm.json"
+hash = "b8c16ef2237ac0a09159eb4e8107458d38bbdb7bedf598e3d8e27455de7d040b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_palm_narrow.json"
+hash = "036168b43d463c3a5103c54b758e4145e58db1961fdd97832688d579a0826de6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_palm_wide.json"
+hash = "3666723e54c74585e6554298f1766b908f1aacf208da3891d28e0d8edbd1f0c8"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_pine.json"
+hash = "4b65400486b9d8da9d16ddf856217d18539348d4f39c41ab239dbbdac4e8394f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_pine_narrow.json"
+hash = "7d7036f1697d1f2235a3e454d912373e868ea661caec4e0dc4c6e236adb0761a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_pine_wide.json"
+hash = "3622556a06916133d93a2c23c27a8da24c766bff73c6e541b4db297a7ab9d0b2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_rainbow_eucalyptus.json"
+hash = "04a607004951c18d564ffcb995bc97005330196b3b4f60208ad50256b57fcd2c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_rainbow_eucalyptus_narrow.json"
+hash = "84f0f874a347145bce3fd2e30b05f9d842877416eb8d7b5e137a07e0ec6a92c4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_rainbow_eucalyptus_wide.json"
+hash = "b580245140f53f0ddf0b92595643b77b45f162ac3296cdc6e0c23f7a0b7e9925"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_redwood.json"
+hash = "1f04575d6171128b699ad1c3cf4a123695c7dda8388b088a012996199165d548"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_redwood_narrow.json"
+hash = "ae09c5dd469cb3f137117b7cabb556e25efb617758bde220eb6db2987d4788ea"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_redwood_wide.json"
+hash = "c5a4f717892cfd0dd77e3226a75f8869061e5be532deda8e702f29abc81df89c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_skyris.json"
+hash = "b46149da00d7837e4f964ca519ba5d8d01a20e4d9a7dfe492305111e13690265"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_skyris_narrow.json"
+hash = "a2575568861419f43e690e5b240d99cfa0e6b4b84eb4f1b1abf25618ca687732"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_skyris_wide.json"
+hash = "44e60f2f2f94493f66aab7469ad30a0851a360dd101465cf3a39b5faea086985"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_sythian.json"
+hash = "31725e96bae19722aad09d5ddc8b93bb50fdb7cb12ec9271dcce3767c7053af8"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_sythian_narrow.json"
+hash = "f6fbe0e236ef7f9d798eeec45db82d851b1ac54de073c012b3d1446be90a85de"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_sythian_wide.json"
+hash = "5d54923347c6356981ef157be72fb15413db46bd78fbd05f9841e6e8d11c1df0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_white_mangrove.json"
+hash = "7f13cf49ff9f7bde34d2f85726421aa4879183ade625071771c262487ca09822"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_white_mangrove_narrow.json"
+hash = "43e0d5e991d215fa6782931122ec4cdb4edbb016e43a4f56e05e2344bef9026f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_white_mangrove_wide.json"
+hash = "2a2f5dfcb8fa94ba9af2454860bc4904c0a4221b3b0a93c98054f7d21bfe5a42"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_willow.json"
+hash = "29ef1e23ee3c9b3797b910184b9a2aa598a5375ed1d2ef975b30d2c619157cc1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_willow_narrow.json"
+hash = "f77ab928162ff190bc63239c010e81e8836d5170e00c789af69eaf4485bcd3a6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_willow_wide.json"
+hash = "c24790334fc1eb1964ed858da5d8b560d08431192bda9f5852620c99953ebff2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_witch_hazel.json"
+hash = "8c6657f022307ae6b6f64be37ab8681cb99bf476dc019fe1a0b8ef9b9e57f0e6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_witch_hazel_narrow.json"
+hash = "ed52e89c797b47bae6abf8db4e30095f5e432dab82ab8e138fa66bfcf2ddd59a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_witch_hazel_wide.json"
+hash = "f1fac0e80a51ac6bca537f2a9072372a73f85df110ac6b954aac2b72755af8a5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_zelkova.json"
+hash = "9d0bdfe8d66c7b14e76a64024eee3c3615024980f60f51dd3caaea7ea38971e1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_zelkova_narrow.json"
+hash = "30537a15adb38268def0740f56b0f21e3b49aa1e2f672a48b6dcf90e4dfd14a5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_byg_zelkova_wide.json"
+hash = "1bf8cf4d357dd9c9e3c199208c19851a67740cd1a4137e42785a3b5c50e06e90"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rose.json"
+hash = "dd68eaf5469512e6cd72adca63fd502c6a77b04f2585552015b3a44e682995fd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rose_narrow.json"
+hash = "3476a35c71654ab84b5d98c77af13da03f3e84adb56e7a11e9f4b6123b634b4c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rose_wide.json"
+hash = "e5f6910d68a1be34f13409520aa64f2d67833304cde6e5a5482b60f3cf6de0a1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rubber.json"
+hash = "59c57b5fdd25b81cdebf994e894de01966c97f7b87f55969b27fc9c8fa3c50c5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rubber_narrow.json"
+hash = "2e6ce0b1d4dd3fee4056e23ed07cf71754cbd4dd09c6b2cff257141439c46f9d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_rubber_wide.json"
+hash = "1f5c0569674143b1e5014dbe57d7587ce37e3e489390ad5c8aba759b80ffeb09"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_smoked.json"
+hash = "f874acc6aa5725e8de18c0e085ed041145b2d8880b9c28a0a7a6e82c555e1617"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_smoked_narrow.json"
+hash = "67111bc8411d9fc2f029cf3617cb242d25f7aafb8e93035c238bafafee44a090"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_smoked_wide.json"
+hash = "b996663c060768967360d9a5a14450051dc16561c6086d55cab08f14b4d0058e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_spirit.json"
+hash = "6a8e21337efbb437477aafb0cfeafe541147b41a228bfaa093550387a3d97fed"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_spirit_narrow.json"
+hash = "b5a6015e4fc15358c33bc693c8051fc8d90e1716391160d0cf3db2c2307a2409"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_create_dd_spirit_wide.json"
+hash = "2088f24481eb32e4c2133fb0fd9324e5c3c2520d8065d942e053d5234aca0429"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_hexcasting_edified.json"
+hash = "8fe17061606bf54967ee30278e5ebde886a1f537f83632c2a273f9588d5d0472"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_hexcasting_edified_narrow.json"
+hash = "7c0b6ab1a4e19f438b1e636841ff5e119bd9de7856a565052b332365b3cca5b1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_hexcasting_edified_wide.json"
+hash = "ce50ee2e771a99daec90ad81b5f739274bb8f6aceef1a9e18174215b27ba50f5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_aspen.json"
+hash = "3c1061332485700bca3c157b11e30ec9da783b7795e25f99e098cdec9836b7f2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_aspen_narrow.json"
+hash = "228da8afadd293ab5e0a1a827d44eadd265d70b8df2a6044d525b5b13cc7bd07"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_aspen_wide.json"
+hash = "a48a1e9658edc40a739ef35eb8cb986b3062780deae74ad131ef425827f17710"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_cypress.json"
+hash = "e95432cef60e6caa3ca938c670675fa21871d52fca1708d2448f0722adb92f22"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_cypress_narrow.json"
+hash = "4b58509578f4242db4e287149686ab44c60d0fc2843e55664bd1c224e6da4066"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_cypress_wide.json"
+hash = "67935fef02b106aa8f6be800ab1712e5901b779a8bfc9354f458e21e493f3af7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_fir.json"
+hash = "f8e33ee3ca37fdfbef04e79e951b842beb379834276df5f4135f4de1638aaee6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_fir_narrow.json"
+hash = "1f347bc7b8406e3ad2497dbf27598e61c156aabbce40db603dfc360adb33daea"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_fir_wide.json"
+hash = "bbfad99ff409c78d1257d539d6ce1eb3ef425aaf6d5c3bb26bb5ded4cbfcf225"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_ghaf.json"
+hash = "d5c1d5acc96a449887dc3c82e738f948f1345f5421156b3c3ca535aec5ec2d32"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_ghaf_narrow.json"
+hash = "cc061d9173be6c9ddd261c39ef16793362650487277756106e05e3311846d1c8"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_ghaf_wide.json"
+hash = "95bce3846692a3ebe1d49c528762076d686b329f80c453bc1596981dd1f3915a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_joshua.json"
+hash = "870e6541d38d87c0ca95cc38088faf3d7498c2d3122009dae21f522e7e5976ba"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_joshua_narrow.json"
+hash = "1489530ba9494294c44593c2bf197349e1f3435ac4a95eb0fb826f2d34f55238"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_joshua_wide.json"
+hash = "b9640c267f88ac716bce21e8c5d2b9fed8be58d6a3dc563518d93928d57452b3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_maple.json"
+hash = "3a2ed83bade4e087f9ac350d6371e3ffcc19322874ab316d50216d9d8bc9274b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_maple_narrow.json"
+hash = "f5719dc8ba421023d02688d6a6dd91513e82666cc454b365f870b30eb7eb2eb9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_maple_wide.json"
+hash = "a61465d72bf0286b5616aa67e3b2410a461f532a6811368b4274ff0a73f100b4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_olive.json"
+hash = "ca6f12df212e489a9dcef777e2c90570b8e147b4cc59edf62371c06f1ccd33f6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_olive_narrow.json"
+hash = "c1b0b447fb1dda1fd7d3d7897a95815a7b2e83d6b34e0b7656917dd1b9b0a4e9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_olive_wide.json"
+hash = "9b677e16acfb6abe20feb70d38a3029e7a187d8da0e29eaff8e914e6f7d09175"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_palo_verde.json"
+hash = "a56e5a8a48aae88dc68fdd0a078a656cffda0b267634adba6941f86d8a9b4dcc"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_palo_verde_narrow.json"
+hash = "9be229cde9926fe3e5b2522cb067a05f4df40bfe0a2a5b8ee7b027e2b8e31561"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_palo_verde_wide.json"
+hash = "57f72bde52cbcdfccf4977dc6bea5ad93fd35349c9832efc8e26c44ad14b259e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_redwood.json"
+hash = "cefd8ef2d4a1e1e490d86a56c5f61e99e93a7fe2d5feaf788303c3501fca6f62"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_redwood_narrow.json"
+hash = "2babe83879893627d9192f3f91373abd959be8574c167e06e1622fea5fd9b2e1"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_redwood_wide.json"
+hash = "d8b0404b91cc582c7f2056d672b95da5c403581090e286e5bfb038d5d55ebf5f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_sugi.json"
+hash = "b9c5f904235adf28d547bcda502efd9c59e260f1fed8f062d9bf49e47dad3a6c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_sugi_narrow.json"
+hash = "b83e48c3b1a167823ff5c5a25d654e61d50a13e5bbcd0497a7c612005622dc96"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_sugi_wide.json"
+hash = "0e7fdb3f11b7bf337ed1670b3a347d459fdad9a96932e03a8f303a4304916847"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_willow.json"
+hash = "290199b1dde1b43706351c23b392d5e22bb5b50075259808525dbda79e989f09"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_willow_narrow.json"
+hash = "c571164f921a61e4b032d0acc1685a348bf7a65990c1aadc489efd4f8e3ccc86"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_willow_wide.json"
+hash = "bb47c8b603c5183a5c1306572d3ca8a5bbb3cb32a1267d521c05d5a72edf7ad3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_wisteria.json"
+hash = "d93a1d7f154befde94a0f9e32bb635d8f83377a02c54680f5c15d150cce2ed9a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_wisteria_narrow.json"
+hash = "afd1146e9d5d9a42a01b8d1af170610939afc38823c8710c1e9cd7d8996e9be0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_natures_spirit_wisteria_wide.json"
+hash = "c625546a75214d9d1c3a9eef72151c49f727fd851a0063abf5df54765fefa446"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_ancient.json"
+hash = "4b50e3123c270729813746e0bb3bd35e00261a099366cab4a24cb67bc26d525a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_ancient_narrow.json"
+hash = "73e184c61c5d18e9c0067f1e6ff3f91f5bc7d49bbbe481462156038419164d4d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_ancient_wide.json"
+hash = "bde689310a5075c68b93a6bb4d9cb19da995abef85ab7bf28819230f894ad8b6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_azalea.json"
+hash = "b2a022bb60be685ca8053d5328a7fbeebbe00be64784b357aba9f50ce2adff42"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_azalea_narrow.json"
+hash = "ac774cd57c31ff5d418ce8b50d461a98d2ae43d48a700c81626a25ada8756b5d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_azalea_wide.json"
+hash = "0b7dc576ea4f0d4b24f6abfc0896f7732981418b9bc2fcb450f37ace6bfdb792"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_blossom.json"
+hash = "7c1ab845bb52dfeffdbb2e9d0a56243e989f16ae7f41f9e6142e1e289ba117bb"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_blossom_narrow.json"
+hash = "f8d0bd136d0417b3c0d54a14fb086e93afa99ff4987d8fcb664297d49cc8dfc7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_quark_blossom_wide.json"
+hash = "f93ccdf5af5437ef389ef8998a3e7f3171b3c450dc7d4929844efb21a061541b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_acacia.json"
+hash = "7d77841ef775b7c24a5eb4c825ebae8dcace52398626dd00a1ef1d082f1daccd"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_acacia_narrow.json"
+hash = "3d918707eb971f0b918f64d5b97a6e4f8000356d3870a2a54517272b53fcd6c5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_acacia_wide.json"
+hash = "ec8f7ce4286ceb6013b288ee6942cc3e0a6fa83ed07fb1159e251b5764b0d008"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_ash.json"
+hash = "0cde9ff3e1c1e961c43d6a33f4a2fbaea26b26d2d01147e4fdcfc5f880457329"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_ash_narrow.json"
+hash = "2849e4f932008e9560cba62b1613fa86c4c348e887a02fc98bdb8d2092e4f916"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_ash_wide.json"
+hash = "14194edaef999876138b44d6e78b79b158f0f969443ec5a5a6c35c81d3d398e6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_aspen.json"
+hash = "60695bfacf83823bb1912b68bf6c82cba720bf99cacb289ad95bd6c17c609cd5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_aspen_narrow.json"
+hash = "fd24cf44c46bb0b8363665be6eb273dae7854f0967babd383a47bb7cb2e194de"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_aspen_wide.json"
+hash = "d061a5894c0afb067540affd198d2ca125d011ab72ce81f84f37d994696cfcaf"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_birch.json"
+hash = "dd6b6414c99b6b40245502ef59362014317808f501b8dc648506b8bc421de6d6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_birch_narrow.json"
+hash = "c232e2ae58db8e166dd2daafa2cb981be02f767edc61dc194e2e761be1aefd35"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_birch_wide.json"
+hash = "4b03afdd38ea9a3d0da1293109cc60cd5784d5a185c2871e46904da55e9a447d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_blackwood.json"
+hash = "b82aeb9a3276f0243c5a8191b59f24fb04cdc0044cd0deb146d6441848b5803a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_blackwood_narrow.json"
+hash = "747d6f7779a2f1f991c28b94e9234dd1e46928f16b0355f0b0a1f0c9ef50bf81"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_blackwood_wide.json"
+hash = "97f988adb87bda1f045e27a404ea122d43bb0535ec4d85449fe5ca06d94b81c3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_chestnut.json"
+hash = "e9cfc1881a3b70b921eea04b88756ab929c82a34c51499d577336e56e88e1a49"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_chestnut_narrow.json"
+hash = "04771a72e1ac0439187cfd8b0f7745c0bf29fe9cfc7036982f7f4c30b3f11c7b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_chestnut_wide.json"
+hash = "584d3777790a567c669c53e8357c42df9159e20636305740b4fa5597a37cc090"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_douglas_fir.json"
+hash = "e534e997e9d37f0fbbcc8f96bc5d47b3e0d5ea3854bd9bba9c56045b8b63e01e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_douglas_fir_narrow.json"
+hash = "13c14e2ea5af86ad21dcce77bdabc0c1c6284b3ab353c87c2aec804720928cfb"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_douglas_fir_wide.json"
+hash = "eb528213ad08f784ba5c8c1cf10dd112735fd68b20509046bc4fe1e0b88c1228"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_hickory.json"
+hash = "9b9e2c7b7d4a8bdf1e4019976232ae1dcce5c64d53b2001f2b7a8ef21fd67796"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_hickory_narrow.json"
+hash = "4234d2c1f8f382279fc8cfe2268997928a236f30fb0df1099233a39d0c602013"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_hickory_wide.json"
+hash = "76edd44a3446e89a1c7b297f0168e47cbc89466fe2a4a22ca7f1207264352451"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_kapok.json"
+hash = "fb25208f0bee485773157b5a58812ad6eed7cc1ae06341b402cffa77dea1e81e"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_kapok_narrow.json"
+hash = "831da14c406175edbfab93a1fc80f0af646e78c2ad6cdc2111c756947d30fdb0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_kapok_wide.json"
+hash = "506c15b80315b52cc21a0f3f8c731f8129ee7a68ab069f89899557ffba317ac4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_mangrove.json"
+hash = "462b87f3d095149505d3abf5f9ccf916aa53bd02e9e36e5e9a7900dc146bb6e6"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_mangrove_narrow.json"
+hash = "ef275f2dac044f2bf7b13e68f6746dea3b32ea7f7e4887fc35b2d118d8b5eeb3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_mangrove_wide.json"
+hash = "6b436b05aba9d1a76b58a0eb1574aab91318abb40203e6d9eb73d74633a4712b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_maple.json"
+hash = "146a554c1b2c0fe313affa90a7c79e0706c29ea9f39bd43726a791bf792b413d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_maple_narrow.json"
+hash = "b7902c7d9ac1c34d6d0b97e5715be8290936abeafe6e0fc6dbde94b2764f9249"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_maple_wide.json"
+hash = "2e51fb8e56e16fc0ccaa27d99424cd8e4fe98e60e4e932abf123a0150cc8a45f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_oak.json"
+hash = "82314901f8eca948716bd85ec86a65438cf7fa01989902a708bb714cd53deab4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_oak_narrow.json"
+hash = "b082333221e99e2a56f263220b61a2296bace0beef253cf95c4b9473c7e5e05b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_oak_wide.json"
+hash = "dd5153cae78653492071f196f57bfcb1a9406e056a610774b54c6d4fc8d9b104"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_palm.json"
+hash = "05ba85bb603c375cfc4cee110c528b68e42a3fe7a88cd91487d0e17c60a2f3c4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_palm_narrow.json"
+hash = "48a82ed73f5515c67e53d0c0fa1502131642ad8a0b343765405fe0da29ed3008"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_palm_wide.json"
+hash = "e146d9ffe63504e54f5291555b4d5da8e211e2e8fe1c98a780eb68cb660a830c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_pine.json"
+hash = "b93debeef51b20516dd00da3e175859472c722e901b0cbf174a55f29a0c51e99"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_pine_narrow.json"
+hash = "c5dcf5526fef7c44871cba05a97ec80d725da5df268d2e6372681c20952070f0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_pine_wide.json"
+hash = "ca7c687920d46520bf372b5c5a16c1f423c27a76d751420b5ec88cd0daed28d3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_rosewood.json"
+hash = "edbec165658d1f00aa3f81a04dc05d6d135caf9971d745874b7572f696a913b2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_rosewood_narrow.json"
+hash = "2fef1d06a1a3e3b83bdaa9cb495fb92bc81812281881b4a765d04ebcffdb399a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_rosewood_wide.json"
+hash = "9692a9b6844e6e1b6b52b8d0ffccd25eaa848a31cff07a9071452dd940224336"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sequoia.json"
+hash = "66502e7b442febef738f709c28584d3797ad36f0339b6a79678bdb488d68d378"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sequoia_narrow.json"
+hash = "f921f9fb1f78cf32a23cee7b9a182c97993761d23aa6e6076f7c2fbf751a2558"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sequoia_wide.json"
+hash = "ad1f0e274761298ac43217576fa6c032c5b0c9acbee2c5f03a0e03f4010de1c7"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_spruce.json"
+hash = "7c323cc729369695178a89bf519225408190bbeae388f8d8b60a3462dea6e9db"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_spruce_narrow.json"
+hash = "d419816f87d10a5612525141fd2bdfb26cb9efac9f4e893f87bf757c741ac219"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_spruce_wide.json"
+hash = "e05b9ec6df8d2cf04e8e12f0777720496b2c51419bc04faa4b89f520d2fca459"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sycamore.json"
+hash = "2209e84a0c652ca2ca7315294b0de9d8fccee17de8a9311feb7c1a87dd4544c2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sycamore_narrow.json"
+hash = "7257288d5dca4f2f1a7b9f1febcf4ea442c684f2962955f1354fb7178baddba2"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_sycamore_wide.json"
+hash = "ebeb9854f372640a989ac2847f177ec30f9d84230b9c36f9681eb5bc1c403eca"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_white_cedar.json"
+hash = "464755ac42b6b26f6c76900b2e6a715fbd0aab7c296c59c159cec9d808e30e4f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_white_cedar_narrow.json"
+hash = "e571c627fc9ebe276b49153bfe3234e381f9189807c5634b9f12c3385edf6df4"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_white_cedar_wide.json"
+hash = "56a84033a24c1f1ee87ba8830946f225b17427502c7f37623d9a2bbb304f762d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_willow.json"
+hash = "9fc2a1bfe97a2793e3ccce7e330e07ebeec391fc2c4adcedb6aae8b8f195d631"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_willow_narrow.json"
+hash = "8722462def6b1e0b6d09ec5eea48f16da42fa06b48f6fc38883aff92194b55ad"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_tfc_willow_wide.json"
+hash = "4ede03c334f3386c8bd25a7edfc9466d7310e08a22881fe15567b034cc97e995"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_canopy.json"
+hash = "2d2f882dc17a60414d28aa6e947298eb066519f5c19649a91220fb5bdceca753"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_canopy_narrow.json"
+hash = "7997be6d1c3f78974f1b80aef7f8902cd7f3440a056c0f2affd7ad3fe5220a57"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_canopy_wide.json"
+hash = "95b79a45dc41535e4fe7dde140d1efc3e08857ce03bfb9e6be9b59fd4b436c8b"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_darkwood.json"
+hash = "760d184c66ac2bdde8e9ac94a803a9fbf0c2fbf99fb528db61316a746d7a21c5"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_darkwood_narrow.json"
+hash = "6108331f9441ca9549e111494547ffdede11c7dcad9443c21b9852c89130edb9"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_darkwood_wide.json"
+hash = "bc63fbd14920ae058257cc2fd727768c9c884e47215374aa98006da62a7e5fdc"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_mangrove.json"
+hash = "e50f73d6ce52ca9b100982ade9ce72155e520edb9e3f021b6c261a2bef539153"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_mangrove_narrow.json"
+hash = "e790d6bd57b88753e54eeb97839e7bca930e8ec160fdb1d1423525367d532b08"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_mangrove_wide.json"
+hash = "be6e84e6f545f76c227aae9b74ec213bf4bb81be4741fc5846e47e36ed2a8298"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_minewood.json"
+hash = "429b5df25897a60be89db668402b7eef14a5d1f4492296ad63a8ae35663662c0"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_minewood_narrow.json"
+hash = "488ed0e817846dcb5cc6f36811fedc98dffc0e21502c844bc84549bcd3ef3973"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_minewood_wide.json"
+hash = "2cc361aef5c863f1c48ee551ac5c7cc4c50c917ac763cc7e96fd430442206f83"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_sortingwood.json"
+hash = "2d52fdb1fba12d7aa6ea0ef6bfe610d7b0fe9c139b9856f50afaf9585c42117d"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_sortingwood_narrow.json"
+hash = "e852ce19f42f7a7425616f45d30353b4859c19604ebcfe1d17ad29ae91c0de29"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_sortingwood_wide.json"
+hash = "cdb6147eb0b63a1019fb161fe974a12866620c82e645128074ac31df7489e337"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_timewood.json"
+hash = "49382541606325349e4a7e2377bcfde96ac1e30e2f90b1bc575d84d948262dad"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_timewood_narrow.json"
+hash = "529eaaf18cc6de8f89a896bebe54ee9b3eb9897dae5986b7fcd1f83c4c171798"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_timewood_wide.json"
+hash = "6c11fff7b14507910cb6c0f9bfaf2049b87d058298aa04a1235be9ac5c76fa21"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_transwood.json"
+hash = "f4ca32cf3220a086b8d7e44c84b59c84e832bfeed466a09af4a9c8be881d6f64"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_transwood_narrow.json"
+hash = "751bbf09e20b7dc145728ae0976fed901f4e0d7417213875a4e2fa462c1a4c8c"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_transwood_wide.json"
+hash = "c822012faebbd4f89956300fe556a04a4d8adae0baaab0e35681cad5b001504a"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_twilight_oak.json"
+hash = "ff5e7331b9dbcddb1b2df9632d228c58ce1a54779381d257c45ef07ba1d6373f"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_twilight_oak_narrow.json"
+hash = "02aaa661bf1312aa01c9a177f7ef832b0909d2b81e2ef5c2a6b350ccb2b43119"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/data/railways/loot_table/blocks/track_twilightforest_twilight_oak_wide.json"
+hash = "9e77c3a006377e0fa02cc6943ef79c32c30ad450a69b9b363a0f428eb4cce1d3"
+
+[[files]]
+file = "world-neoforge/datapacks/fd-server-fixes/pack.mcmeta"
+hash = "a644edd51d8a2f41dff05863380d4bc434c27c27f0842d13a5481471aa617baf"
