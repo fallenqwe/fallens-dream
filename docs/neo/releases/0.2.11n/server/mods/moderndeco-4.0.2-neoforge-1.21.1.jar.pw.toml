@@ -1,0 +1,8 @@
+name = "ModernDeco"
+filename = "moderndeco-4.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJ5aaMEg/versions/n35LG26X/moderndeco-4.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "75ea62a399b5fc02b3bf62f413e7b194097637c6a03b0d9864eae921c451c4bd26cff9454fec9e752c66effe366af9ed820d39faa22d35f4ae923bd79ac705df"

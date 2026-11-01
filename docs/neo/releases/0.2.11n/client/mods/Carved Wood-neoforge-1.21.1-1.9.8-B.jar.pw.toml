@@ -1,0 +1,8 @@
+name = "Carved Wood"
+filename = "Carved Wood-neoforge-1.21.1-1.9.8-B.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuwijfrW/versions/TQmOwXRa/Carved%20Wood-neoforge-1.21.1-1.9.8-B.jar"
+hash-format = "sha512"
+hash = "347ecd2640e3b73eccfeb693e82b8248d617d57cea0473c37ca0c486d152d524ec50c359d1db9f86540eb6dc3f639cdd75580e379dbc6a73842f55cda8e52e1c"

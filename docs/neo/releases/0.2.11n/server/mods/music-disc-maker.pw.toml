@@ -1,0 +1,13 @@
+name = "Music Disc Maker"
+filename = "music_disc_maker-3.1.2+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mqnazM0E/versions/F9KgekDL/music_disc_maker-3.1.2%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fb1c24cae1d70a5b1ce83e7c4b113512b109d7c58acd93f54fcba6231772a144059194fee43d1beac2f8cb9e938f0d2cc43fcfca5c9e2f7e1cf7cf56ed7df21a"
+
+[update]
+[update.modrinth]
+mod-id = "mqnazM0E"
+version = "F9KgekDL"

@@ -1,0 +1,8 @@
+name = "MDM (formerly Modern Decorations Mod)"
+filename = "mdm-3.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/layVL2QV/mdm-3.0.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d428fa9a9dbe2d8e8ffa90a5b2142b0eb66be992985e48f0a9bf6308fafe16c112954c3228caf50ea0ef3a13d6f3b02cd81c8666673aac0d612b62e2c55ab4a7"

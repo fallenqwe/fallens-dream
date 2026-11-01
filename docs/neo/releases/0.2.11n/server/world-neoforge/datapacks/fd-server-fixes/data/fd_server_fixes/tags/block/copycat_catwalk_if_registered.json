@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "copycats:copycat_catwalk",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+name = "Skniro's Furniture"
+filename = "SkniroFurniture-1.5.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pezpt98N/versions/3p5JPoG1/SkniroFurniture-1.5.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "82bdcb91e24d7d49b3c17e70866721d31a4b33762eb4ad92d229d258aa0c80c38580b806a5f789d34246ebec96c11e69b90b3a44dd15c50b8a52d072dca886c6"

@@ -1,0 +1,23 @@
+# Proposed survival settings. Loot is personal once per player, never refilled.
+# This is COMMON config, not a world/serverconfig or defaultconfigs file.
+
+[conversion]
+disable = false
+
+[breaking]
+disable_break = true
+enable_break = false
+enable_fake_player_break = false
+blast_immune = true
+
+[decay]
+decay_all = false
+decay_loot_tables = []
+decay_modids = []
+decay_dimensions = []
+
+[refresh]
+refresh_all = false
+refresh_loot_tables = []
+refresh_modids = []
+refresh_dimensions = []

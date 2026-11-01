@@ -1,0 +1,8 @@
+name = "Create: Fishery Industry"
+filename = "createfisheryindustry-5.1.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8863/886/createfisheryindustry-5.1.2.jar"
+hash-format = "sha512"
+hash = "5eec24af14313e536ec15d5aa6454593c89e5dca9809fc4ae7f2039613affa7c3354f84c1811a7cad2c4758baccbf680ff346abfcaf5f7ebcc3cc056bb8eeaf4"

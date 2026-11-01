@@ -1,0 +1,7 @@
+{
+  "selector": "#fd_server_fixes:copycat_catwalk_if_registered",
+  "properties": {
+    "sable:mass": 0.25,
+    "sable:volume": 0.25
+  }
+}
